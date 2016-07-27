@@ -272,8 +272,7 @@ accolade
 【例】  won virtually every accolade that the film world has to offer  赢得了电影界几乎一致的赞赏
 【近】  applause, credit, distinction
 【考法  2】  v. 赞扬：  to praise or honor
-【 反】 excoriation, criticism, reprobation, castigation, cutting remark, derogation, reproof. denigration,
-denunciation, swearword 批评，谴责
+【 反】 excoriation, criticism, reprobation, castigation, cutting remark, derogation, reproof. denigration, denunciation, swearword 批评，谴责
 accommodate
 【考法1】  v. 提供所需（例如服务、借贷、寄宿）：  to  provide with something desired, needed, or suited (as ahelpful service, a loan, or lodgings)
 【例】  This cruise ship was big enough to accommodate over 600 people. 该游轮可以为超过 600 人提供食宿。
@@ -383,13 +382,11 @@ adjourn
 【例】  The meeting adjourned for a week. 会议延期一周。
 【近】  prorogate, prorogue, recess, suspend
 【反】  convoke 召集，召开会议
-adjunct [5AdVQNkt]
 adjunct
 【考法1】  n. 附属物，非必须部分：  something joined or added to another thing but not essentially a part of it
 【例】  Massage therapy can be used as an adjunct along with the medication. 按摩治疗可以作为药物治疗的补充疗法。
 【近】  appendage, appliance, attachment, add-on
 【反】  essential element 重要部分
-ad-lib
 ad-lib
 【考法1】  adj. 即兴的：  made or done without previous thought or preparation
 【例】  not bad for an ad-lib comedy routine  对即兴喜剧表演来说已经不错了
@@ -636,8 +633,7 @@ amenable
 【考法1】  adj. 顺从的，服从的：readily brought to yield, submit, or cooperate
 【例】a high-spirited and rebellious girl not at all amenable to persuasion. 一个泼辣而反叛的女孩根本不听从劝告。
 【近】compliant, docile, submissive, tractable, obedient
-【反】intransigent,  contumacious 不妥协的；intractable,  recalcitrant,  refractory  倔强的；uncontrollable,
-ungovernable, unruly  难管束的
+【反】intransigent,  contumacious 不妥协的；intractable,  recalcitrant,  refractory  倔强的；uncontrollable, ungovernable, unruly  难管束的
 amenity
 【考法  1】  n. （环境，设备等的）舒适，人性化：something that conduces to comfort, convenience, or enjoyment
 【例】the amenity of the new surroundings  新环境的宜人之处
@@ -741,8 +737,7 @@ annoy
 【例】Mosquitoes annoy us in the summer. 夏天蚊子总是不断烦扰我们。
 【例】The sound of footsteps on the bare floor annoyed the downstairs neighbors.  楼上地板的脚步声吵得楼下住户心烦。
 【近】aggravate, bother, chafe, gall, grate, irk, nettle, peeve, pique, rile, ruffle, spite, vex
-【反】soothe, defuse, allay, conciliate, propitiate, mitigate, assuage, appease, pacify, placate, calm, settle, subdue,
-solace, mollify 平息，抚慰
+【反】soothe, defuse, allay, conciliate, propitiate, mitigate, assuage, appease, pacify, placate, calm, settle, subdue, solace, mollify 平息，抚慰
 annul
 【考法1】  v. 宣告无效，取消：to declare or make legally invalid or void
 【例】The marriage was annulled last month.  婚约上个月取消了。
@@ -777,8 +772,7 @@ antagonize
 【考法2】  vt. 激起敌意：to incur or provoke the hostility of
 【例】His remark antagonized his friends.  他的评述激怒了他的朋友。
 【近】aggravate, exasperate, gall, inflame, nettle, provoke, peeve, pique, irritate, rile, roil, chafe, grate, ruffle,vex
-【反】soothe, defuse, allay, conciliate, propitiate, mitigate, assuage, appease, pacify, placate, calm, settle, subdue,
-solace, mollify 平息，抚慰
+【反】soothe, defuse, allay, conciliate, propitiate, mitigate, assuage, appease, pacify, placate, calm, settle, subdue, solace, mollify 平息，抚慰
 antediluvian
 【考法1】  adj. 非常古老的，过时的：extremely old and antiquated
 【例】He has antediluvian notions about the role of women in the workplace.  他对职场女性抱有老掉牙的看法。
@@ -918,8 +912,7 @@ apropos
 【反】extraneous, irrelevant, impertinent, irrelative, pointless 无关的
 【考法2】  prep.  关于，有关：having to do with
 【例】to make a number of telling observations apropos the current political situation  做了很多关于当前政治形势有力的观察
-【近】apropos, apropos of, as far as, as for, as regards (also as respects), as to, concerning, of, on, regarding,
-respecting, touching, toward (or towards)
+【近】apropos, apropos of, as far as, as for, as regards (also as respects), as to, concerning, of, on, regarding, respecting, touching, toward (or towards)
 apt
 【考法1】  adj. 恰当的,合适的：exactly suitable; appropriate
 【例】apt remark/ choice/ description  恰当的评述、选择、描述
@@ -1061,8 +1054,7 @@ aspersion
 【考法1】  n. 诽谤，中伤：a false or misleading charge meant to harm someone's reputation
 【例】cast aspersions on my loyalty  诽谤我的忠诚
 【近】defamation, besmirchment, calumny, calumniation, maligning, obloquy, vilification
-【反】glowing tribute, eulogy, extolling, laudation, praise,?commendation, compliment  热情赞赏，表扬；flattery,
-adulation 拍马屁
+【反】glowing tribute, eulogy, extolling, laudation, praise,?commendation, compliment  热情赞赏，表扬；flattery, adulation 拍马屁
 aspirant
 【考法1】  n. 有抱负者,  有野心者：one who aspires, as to advancement, honors, or a high position
 【例】a bevy of ever-smiling aspirants for the Miss America title  一群想当美国小姐的少女
@@ -1529,14 +1521,12 @@ bawdy
 【考法1】  adj. 下流的，猥亵的：  boisterously or humorously indecent
 【例】  a bawdy joke  黄色笑话 || bawdy house  妓院
 【近】  obscene, lewd, ribald, vulgar
-【反】  decent, decorous 得体的
-chaste, noble  纯洁的，高贵的
+【反】  decent, decorous 得体的chaste, noble  纯洁的，高贵的
 bedeck
 【考法1】  vt. 装饰，点缀：  to make more attractive by adding something that is beautiful or becoming
 【例】  flag bedecking the balcony  在阳台上用以装饰的旗子 || bedeck with jewels  用珠宝装饰
 【近】  adorn, beautify, decorate, dress, embellish, emblaze
-【反】  strip  剥去
-blemish, deface, mar, spoil 损害，破坏
+【反】  strip  剥去blemish, deface, mar, spoil 损害，破坏
 belabor
 【考法1】  v. （当众）严厉批评：  to criticize harshly and usually publicly
 【例】  It’s not wise to belabor other people's flaws when you're hardly perfect yourself. 如果你自己还做不到完美，去指责他人是不明智的
@@ -1621,8 +1611,7 @@ bifurcate
 【考法1】  vi./vt. （使）分成两支：  (to cause) to divide into two branches or parts
 【例】  Their visions of the company’s future slowly began to bifurcate. 我们关于公司未来的构想慢慢出现分歧
 【近】  divide, diverge, fork
-【反】  coalesce  联合
-converge  汇合
+【反】  coalesce  联合 converge  汇合
 bigot
 【考法1】  n. 固执己见者，有偏见的人：  a person obstinately devoted to his own opinions and prejudices
 【例】  He is a bigot, or “a slave of dogma”. 一个固执己见的人，换而言之就是——教条主义的奴隶
@@ -1650,8 +1639,7 @@ blasé
 【考法1】  adj. （过度放纵之后）厌倦享乐的，腻烦的：  apathetic to pleasure or excitement as a result of excessiveindulgence or enjoyment
 【例】  Years of extravagance has made him totally blasé. 长期的奢华生活已使他彻底麻木
 【近】  indifferent, jaded, unconcerned, world-weary
-【反】  zealous, fanatic 狂热的
-curious  好奇的
+【反】  zealous, fanatic 狂热的 curious 好奇的
 blast
 【考法1】  n. 爆炸：  an explosion or violent detonation
 【例】  blast wave of a nuclear bomb 原子弹的冲击波
@@ -2703,8 +2691,7 @@ comely
 【考法1】  n. 漂亮的，吸引人的：pleasing and wholesome in appearance; attractive
 【例】a comely young woman  年轻美丽的女人
 【近】attractive,  cute, fair,  good-looking,  gorgeous,  handsome,  lovely,  pretty,  ravishing, well-favored,  seemly.stunning
-【反】homely, ill-favored, ugly unattractive, unbeautiful, uncomely, uncute, unhandsome, unlovely, unpleasing,
-unpretty 不好看的
+【反】homely, ill-favored, ugly unattractive, unbeautiful, uncomely, uncute, unhandsome, unlovely, unpleasing, unpretty 不好看的
 comity
 【考法1】  n. 友好，社会和谐：friendly social atmosphere  ：social harmony
 【例】group activities promoting comity  促进和谐氛围的团队活动 || comity of nations  国际礼节
@@ -2771,8 +2758,7 @@ commonsensical
 【考法1】  adj. 符合常识的，有依据的：displaying common sense，based on sound reasoning or information
 【例】The only commonsensical solution would be to divide the children into groups according to age.  唯一合理的解决办法就是按照年龄把孩子分成组。
 【近】justified, logical, rational, reasonable, reasoned, valid, well-founded, levelheaded
-【反】groundless,  illogical,  invalid,  irrational,  nonrational,  nonsensical,  nonvalid,  unfounded,  uninformed,
-unjustified, unreasonable, unreasoned, unsound  无逻辑的，不合理的；preposterous  荒谬的
+【反】groundless,  illogical,  invalid,  irrational,  nonrational,  nonsensical,  nonvalid,  unfounded,  uninformed, unjustified, unreasonable, unreasoned, unsound  无逻辑的，不合理的；preposterous  荒谬的
 commotion
 【考法1】  n. 骚乱：an agitated disturbance
 【例】The commotion was created when the nation's top rock band arrived in town. 当顶级摇滚乐队来到小镇时，人们骚乱了。
@@ -2802,8 +2788,7 @@ compliant
 【考法1】  adj. 顺从的：ready or disposed to comply: submissive
 【例】a corrupt regime aided by a compliant television station 一个在顺从的电视台帮助下的腐败政府
 【近】amenable, conformable, docile, submissive, tractable
-【反】balky,  contumacious,  disobedient,  incompliant,  insubordinate,  intractable,  noncompliant,  obstreperous,
-rebel, rebellious, recalcitrant, refractory, unamenable, ungovernable, unruly, willful, wayward 顽固，难驾驭的
+【反】balky,  contumacious,  disobedient,  incompliant,  insubordinate,  intractable,  noncompliant,  obstreperous, rebel, rebellious, recalcitrant, refractory, unamenable, ungovernable, unruly, willful, wayward 顽固，难驾驭的
 compliment
 【考法1】  n./ vt. 称赞，恭维：an expression of praise, admiration, or congratulation
 【例】a man meriting the compliments and homage of his fellows 一个值得他的伙伴们尊敬和称赞的人
@@ -4190,8 +4175,7 @@ descend
 【近】  dip, fall, plunge, sinkarise, ascend, climb, mount, upsweep, upturn
 【反】
 【考法2】  v. 世代相传：  to originate or come from an ancestral stock or source, to pass by inheritance
-【例】  The house has descended through four generations. 这座房子已经传了四代。a  tradition  descending
-from colonial days  殖民时期传递下来的一项传统
+【例】  The house has descended through four generations. 这座房子已经传了四代。a  tradition  descending from colonial days  殖民时期传递下来的一项传统
 descendant
 【考法1】  n. 后代：  one deriving directly from a precursor or prototype
 【例】  They are descendants of the original English and Scottish settlers. 他们是最早一批英格兰和苏格兰定居者的后裔。
@@ -4226,8 +4210,7 @@ descend
 【例】  the pathway descends to the river bank 通道一直向下延伸到河岸
 【近】  dip, fall, plunge, sink
 【考法2】  v. 世代相传：  to originate or come from an ancestral stock or source, to pass by inheritance
-【例】  The house has descended through four generations. 这座房子已经传了四代。a  tradition  descending
-from colonial days  殖民时期传递下来的一项传统
+【例】  The house has descended through four generations. 这座房子已经传了四代。a  tradition  descending from colonial days  殖民时期传递下来的一项传统
 descendant
 【考法1】  n. 后代：  one deriving directly from a precursor or prototype
 【例】  They are descendants of the original English and Scottish settlers. 他们是最早一批英格兰和苏格兰定居者的后裔。
@@ -4850,8 +4833,7 @@ dissolute
 【考法1】  adj. 放荡的，无节制的：  lacking moral restraint; indulging in sensual pleasures or vices.
 【例】  lead a dissolute life 过着放荡无节制的生活
 【近】  dissipated, libertine, rakish, reprobate
-【反】  abstinent, abstemious, temperate, ascetic, stoic, spartan, self-denying 自制节制的；pure,  uncorrupt,
-uncorrupted 纯洁的，未堕落的
+【反】  abstinent, abstemious, temperate, ascetic, stoic, spartan, self-denying 自制节制的；pure,  uncorrupt, uncorrupted 纯洁的，未堕落的
 dissolve
 【考法1】  v. 溶解，融化：  to cause to pass into solution; to reduce (solid matter) to liquid form; melt
 【例】  Sugar dissolves in the water. 糖在水中溶解
@@ -5888,8 +5870,7 @@ evanescent
 【考法1】  adj. 逐渐消失的，短暂的：  tending to vanish like vapor
 【例】  Beauty is as evanescent as a rainbow. 容颜易老，年华易逝。
 【近】  ephemeral, fleeting, impermanent, temporary, transient, transitory
-【反】  ceaseless,  endless,  enduring,  eternal,  everlasting,  immortal,  permanent,  perpetual,  timeless,  undying,
-unending, abiding, lasting, perpetual 持久的
+【反】  ceaseless,  endless,  enduring,  eternal,  everlasting,  immortal,  permanent,  perpetual,  timeless,  undying, unending, abiding, lasting, perpetual 持久的
 evasive
 【考法1】  adj. 难以发现、捕捉、分离的；含糊其词的：  hard to find, capture, or isolate; equivocal
 【例】  an evasive statement 模棱两可的陈述
@@ -7469,8 +7450,7 @@ grotesque
 【考法1】  adj. 难看的：  unpleasant to look at
 【例】  that bloody Halloween mask is grotesque 那个血腥的万圣节面具丑死了
 【近】  hideous, homely, ill-favored, monstrous, unappealing, unattractive, uncomely, unsightly
-【反】  aesthetic, attractive, beautiful, bonny, comely, fetching, gorgeous, knockout, ravishing,  seemly, sightly,
-stunning, taking, well-favored 悦目的，吸引人的
+【反】  aesthetic, attractive, beautiful, bonny, comely, fetching, gorgeous, knockout, ravishing,  seemly, sightly, stunning, taking, well-favored 悦目的，吸引人的
 grovel
 【考法1】  vi. 卑躬屈膝：  to draw back or crouch down in fearful submission
 【例】  He made a groveling apology to the girl. 他放下身段，给那姑娘道歉。
@@ -7579,8 +7559,7 @@ ham-handed
 【反】 deft, dexterous, handy, sure-handed, adroit 敏捷的
 hammer
 【考法1】  v. 屡次重申：  to make repeated efforts especially :to reiterate an opinion or attitude.
-【例】  the lectures all hammered away at the same points 整场讲座都是在阐述相同论点 ||  hammered  the
-information into the students' heads 把这条信息反复向学生们强调
+【例】  the lectures all hammered away at the same points 整场讲座都是在阐述相同论点 ||  hammered  the information into the students' heads 把这条信息反复向学生们强调
 hamper
 【考法1】  vt. 阻碍：  to restrict the movement of by bonds or obstacles: impede
 【例】  Construction is hampering traffic on the highway. 高速路上的建设阻碍了正常交通。
@@ -7647,8 +7626,7 @@ harmonious
 【考法1】  adj. 和谐一致的：  having the parts agreeably related
 【例】  a harmonious arrangement of archways and doorways in the palace courtyard 宫殿的庭院，拱门和门廊排列有序协调
 【近】 balanced,  congruous,  consonant,  eurythmic,  harmonic,  accordant,  coherent,  compatible,  concordant,conformable, congruent, consonant, correspondent, nonconflicting
-【反】  disharmonic, disharmonious, incongruous, unbalanced 不协调的；conflicting, incompatible, incongruous,
-inconsistent 冲突的
+【反】  disharmonic, disharmonious, incongruous, unbalanced 不协调的；conflicting, incompatible, incongruous, inconsistent 冲突的
 harness
 【考法1】  vt. 利用：  utilize
 【例】 harness the sun's rays as a source of energy  利用阳光作为一种能源
@@ -7786,8 +7764,7 @@ hidebound
 【考法1】  adj. 死板的，极度保守的：  tending to favor established ideas, conditions, or institutions
 【例】 the hidebound innkeeper refused to see the need for a Web site 死板的酒馆老板坚决不肯装宽带
 【近】 archconservative, brassbound, die-hard, old-fashioned, standpat, ultraconservative
-【反】  broad-minded,  large-minded,  liberal,  nonconservative,  nonconventional,  nonorthodox,  nontraditional,
-open-minded, progressive  进步的，开放包容的
+【反】  broad-minded,  large-minded,  liberal,  nonconservative,  nonconventional,  nonorthodox,  nontraditional, open-minded, progressive  进步的，开放包容的
 hideous
 【考法1】  adj. 非常丑陋的：  exceedingly ugly
 【例】  wearing a hideous Halloween mask that made the kids all jump with fright 戴着一个丑陋的万圣节面具把小孩子全都吓跑了
@@ -7847,8 +7824,7 @@ homely
 【考法1】  adj. 其貌不扬的，朴素简单的：  not attractive or good-looking
 【例】  homely truth 朴素的真理
 【近】  hideous, unappealing, unattractive, uncomely, unsightly
-【反】 pulchritudinous,  aesthetic,  attractive,  beautiful,  comely,  gorgeous,  handsome,  knockout,  lovely,  pretty,
-ravishing, seemly, sightly, stunning, taking, well-favored 美丽的
+【反】 pulchritudinous,  aesthetic,  attractive,  beautiful,  comely,  gorgeous,  handsome,  knockout,  lovely,  pretty, ravishing, seemly, sightly, stunning, taking, well-favored 美丽的
 homily
 【考法1】  n. 冗长乏味的道德讲演或训诫：  an idea or expression that has been used by many people
 【例】  a TV movie filled with the usual hokey homilies about people triumphing over life's adversities 一档说教性质的、充满了介绍逆境中的人们如何成就自我的电视节目
@@ -8984,8 +8960,7 @@ intemperate
 【考法1】  adj. 无节制的，极端的，不温和的：  not temperate or moderate
 【例】  The tone of the article is very intemperate. 文章的论调很极端
 【近】  excessive, extreme, immoderate, inordinate, overindulgent, unrestrained
-【反】  equable 温和的；bridled,  checked,  constrained,  controlled,  curbed,  governed,  hampered,  hindered,
-trammeled 受限制的，节制的
+【反】  equable 温和的；bridled,  checked,  constrained,  controlled,  curbed,  governed,  hampered,  hindered, trammeled 受限制的，节制的
 intensify
 【考法1】  vt. 加强，激化：  to make intense or more intensive
 【例】  Both companies intensified their efforts to win the contract.  为了获得这份合同，两家公司都加大了投入
@@ -11011,8 +10986,7 @@ nugatory
 【考法1】  adj. 无关紧要的：  of little or no consequence; inconsequential
 【例】  the book is entertaining, but its contributions to Shakespearean scholarship are nugatory 这本书娱乐性不错，但是对于莎士比亚研究的贡献微不足道
 【近】  incidental, inconsequential, inconsiderable, insignificant, negligible, trifling, trivial
-【反】 consequential,  eventful,  important, major, meaningful, momentous,  significant,  substantial, unfrivolous,
-weighty  重要的
+【反】 consequential,  eventful,  important, major, meaningful, momentous,  significant,  substantial, unfrivolous, weighty  重要的
 nurture
 【考法1】  vt. 提供营养：  to supply with nourishment
 【例】  nurtured her children through the winters with home-cooked soup 一整个冬天都给孩子们喂自制的汤
@@ -11033,8 +11007,7 @@ obdurate
 【考法2】  adj. 冷酷无情的：  having or showing a lack of sympathy or tender feelings
 【例】  the obdurate refusal of the crotchety old man to let the neighborhood kids retrieve their ball from hisbackyard 那个怪老头冷酷无情地拒绝了孩子们进他后院找球的请求
 【近】  affectless, callous, compassionless, hard-hearted, heartless, indurate, inhuman, insensate, ironhearted,merciless, remorseless, ruthless, unsparing
-【反】  charitable,  compassionate,  humane,  kindhearted,  kindly,  merciful,  softhearted,  sympathetic,  tender,
-warmhearted 同情的，有爱的
+【反】  charitable,  compassionate,  humane,  kindhearted,  kindly,  merciful,  softhearted,  sympathetic,  tender, warmhearted 同情的，有爱的
 obedient
 【考法1】  adj. 服从的，顺从的：  submissive to the restraint or command of authority
 【例】  that girl is so obedient that she does everything the first time she is asked 这个妹子如此顺从，叫她做事随叫随到
@@ -11079,8 +11052,7 @@ oblivious
 【考法1】  adj. 不知道的，不知情的：  lacking conscious awareness; not informed about or aware of something
 【例】 He seemed oblivious to the fact that he had hurt her. 他似乎并不在意他伤害了她.
 【近】 incognizant, insensible, unaware, unconscious, uninformed, unwitting
-【反】 mindful,  vigilant, acquainted, cognizant, conscious, conversant, grounded, informed, knowing, mindful,
-witting 留意的，机警的
+【反】 mindful,  vigilant, acquainted, cognizant, conscious, conversant, grounded, informed, knowing, mindful, witting 留意的，机警的
 obloquy
 【考法1】  n. 谩骂，诽谤：  abusively detractive language or utterance; calumny
 【例】  she unleashed a torrent of obloquy on her opponent 她滔滔不绝地辱骂了对手一顿
@@ -11142,8 +11114,7 @@ obtuse
 【考法1】  adj. 愚钝的：  not having or showing an ability to absorb ideas readily
 【例】 Are you being deliberately obtuse? 你是故意装笨吗?
 【近】 dumb, fatuous, mindless, oafish, opaque, senseless, unintelligent, vacuous
-【反】 insightful,  apt,  brainy,  bright,  brilliant,  clever,  fast,  intelligent,  keen,  nimble,  quick,  quick-witted,  sharp,
-sharp-witted, smart 有洞察力的，智慧的
+【反】 insightful,  apt,  brainy,  bright,  brilliant,  clever,  fast,  intelligent,  keen,  nimble,  quick,  quick-witted,  sharp, sharp-witted, smart 有洞察力的，智慧的
 obviate
 【考法1】  vt. 排除，使不必要：  to anticipate and prevent (as a situation) or make unnecessary (as an action)
 【例】 The new treatment obviates the need for surgery. 新的疗法使手术不再是必须的。
@@ -12777,14 +12748,12 @@ propriety
 【考法2】  n. 适当得体：  the quality or state of being especially suitable or fitting
 【例】  I'm not sure about the propriety of serving champagne in these glasses. 我不确定在这种杯子里倒香槟是否得体。
 【近】  appositeness, aptness, felicity, fitness, properness, rightness, seemliness, suitability
-【反】 improperness, impropriety, inappositeness, inappropriateness, inaptness, infelicity, unfitness,
-unseemliness, unsuitability, wrongness 不得体
+【反】 improperness, impropriety, inappositeness, inappropriateness, inaptness, infelicity, unfitness, unseemliness, unsuitability, wrongness 不得体
 prosaic
 【考法1】  adj. 单调的，常见的：  being of the type that is encountered in the normal course of events
 【例】  prosaic advice 老掉牙的建议
 【近】  commonplace, everyday, routine, unexceptional, unremarkable, workaday
-【反】 abnormal,  exceptional,  extraordinary,  odd,  out-of-the-way,  strange,  exciting,  preternatural,  ingenious,
-imaginary 不寻常的，有独创性的
+【反】 abnormal,  exceptional,  extraordinary,  odd,  out-of-the-way,  strange,  exciting,  preternatural,  ingenious, imaginary 不寻常的，有独创性的
 proscribe
 【考法1】  vt. 禁止，排斥：  to prohibit; forbid
 【例】  acts proscribed by law  被法律禁止的行为
@@ -12995,8 +12964,7 @@ pusillanimous
 【考法1】  adj. 懦弱的，胆小得令人鄙视的：  lacking courage and resolution : marked by contemptible timidity
 【例】  pusillanimous politicians who vote according to whichever way the political wind is blowing 胆小懦弱的政客，舆论风向倒向谁就投票给谁
 【近】  craven, dastardly, gutless, poltroon, recreant, spineless
-【反】 brave,  courageous,  daring,  dauntless,  doughty,  gallant,  gutsy,  intrepid,  lionhearted,  stalwart,  stout,
-stouthearted, valiant, valorous 勇敢的
+【反】 brave,  courageous,  daring,  dauntless,  doughty,  gallant,  gutsy,  intrepid,  lionhearted,  stalwart,  stout, stouthearted, valiant, valorous 勇敢的
 quack
 【考法1】  n. 骗子医生，江湖郎中：  a pretender to medical skill
 【例】  don't bother to see that guy, as I've heard he's a quack with no actual training  别再找他看病了，我听说他就是个没有真才实学的江湖郎中
@@ -13104,8 +13072,7 @@ racy
 【考法1】  adj. 活泼生动的：  vigorous; lively
 【例】  vivid writing and a racy plot that keeps readers turning the pages 栩栩如生的手法和生动新鲜的情节让读者手不释卷
 【近】  animate, brisk, frisky, jaunty, perky, spirited, vivacious
-【反】 tame, dead, inactive, inanimate, lackadaisical, languid, languorous, leaden, lifeless, limp, listless, spiritless,
-vapid 乏味的，死气沉沉的
+【反】 tame, dead, inactive, inanimate, lackadaisical, languid, languorous, leaden, lifeless, limp, listless, spiritless, vapid 乏味的，死气沉沉的
 raffish
 【考法1】  adj. 低俗的：  marked by or suggestive of flashy vulgarity or crudeness
 【例】  the dowager cringed at the thought of raffish tourists tromping all over her Persian rugs 寡妇一想到低俗的游客践踏她的波斯地毯就痛苦不已
@@ -14714,8 +14681,7 @@ seemly
 【考法1】  adv. 得体的，遵守礼节的：  following the established traditions of refined society and good taste
 【例】 a young lady of seemly appearance, robust health, and keen intelligence  一个打扮得体、身体健康、头脑敏锐的姑娘
 【近】 befitting, decent, decorous, genteel, respectable
-【反】  uncouth,  ribald,  indecorous,  improper,  inappropriate,  indecent,  indelicate,  unbecoming,  ungenteel,
-unseemly 粗俗的，不礼貌的
+【反】  uncouth,  ribald,  indecorous,  improper,  inappropriate,  indecent,  indelicate,  unbecoming,  ungenteel, unseemly 粗俗的，不礼貌的
 segment
 【考法1】  vt./n. 分割，部分：  to separate into segments
 【例】 I think I lost one segment of this model kit. 这套模型的一个零件我找不到了。
@@ -15024,8 +14990,7 @@ slack
 【考法2】  adj. 疏忽的，大意的：  failing to give proper care and attention
 【例】  This building contractor is known mainly for his firm's slack workmanship and slipshod construction. 这个建筑承包商因其手下公司不负责任的粗糙做工和马虎建造的建筑物而闻名。
 【近】 careless, derelict, disregardful, lax, lazy, neglectful, neglecting, negligent, remiss
-【反】  attentive, careful, conscientious  专心的；alert,  heedful,  mindful,  observant,  regardful,  vigilant,  wary,
-watchful  警惕的
+【反】  attentive, careful, conscientious  专心的；alert,  heedful,  mindful,  observant,  regardful,  vigilant,  wary, watchful  警惕的
 slake
 【考法1】  vt. 使满足：  to satisfy (a craving); quench
 【例】  Mountain climbing has largely slaked my desire for adventure. 登山很大程度上满足了我对探险的渴望。
@@ -16515,8 +16480,7 @@ tedious
 【考法1】  adj. 冗长乏味的：  tiresome because of length or dullness: boring
 【例】 a tedious public ceremony 冗长无聊的公开仪式
 【近】 drab, dreary, jading, monotonous, stale, stodgy, stuffy, weary, drudging
-【反】 entertaining,  absorbing,  stimulating,  engaging,  engrossing,  gripping,  interesting,  intriguing,  involving,
-riveting 令人愉快的，吸引人的
+【反】 entertaining,  absorbing,  stimulating,  engaging,  engrossing,  gripping,  interesting,  intriguing,  involving, riveting 令人愉快的，吸引人的
 teeter
 【考法1】  vi. 蹒跚，不稳定的行走：  to move unsteadily: wobble
 【例】  She teetered down the street in her high heels. 她穿着高跟鞋，在街上摇摇欲坠。
@@ -16541,8 +16505,7 @@ temerity
 【反】 circumspection, cautious approach, pusillanimity 谨慎
 temporize
 【考法1】  v. 行动躲躲闪闪以争取时间、躲避争论等：  to act evasively in order to gain time, avoid argument, orpostpone a decision
-【例】 “Colonial officials . . . ordered to enforce unpopular enactments, tended to temporize, to find excuses for
-evasion”(J.H. Parry) “被命令来执行不受欢迎法案的殖民地官员们倾向于敷衍了事，去寻找逃避的理由”(J.H.帕里)
+【例】 “Colonial officials . . . ordered to enforce unpopular enactments, tended to temporize, to find excuses for evasion”(J.H. Parry) “被命令来执行不受欢迎法案的殖民地官员们倾向于敷衍了事，去寻找逃避的理由”(J.H.帕里)
 temperate
 【考法1】  adj. 言行举止有分寸的：  avoiding extremes in behavior or expression
 【例】  rather temperate in his appraisal of the movie, calling it good but not great 对于电影的赞赏很适度，说其“还好”而不是“很棒”
@@ -16584,8 +16547,7 @@ tender
 【考法2】  adj. 考虑周到的，关心同情的：  having or marked by sympathy and consideration for others
 【例】  an especially tender teacher who loves having kids with special educational needs in her class 特别无微不至的老师，爱着那些需要特别教育的孩子们
 【近】  beneficent, benevolent, benignant, compassionate, softhearted
-【反】  atrocious,  barbarous,  bestial,  brutal,  callous,  cruel,  fiendish,  inhuman,  insensate,  sadistic,  savage,
-truculent, uncompassionate, vicious 尖酸刻薄的
+【反】  atrocious,  barbarous,  bestial,  brutal,  callous,  cruel,  fiendish,  inhuman,  insensate,  sadistic,  savage, truculent, uncompassionate, vicious 尖酸刻薄的
 tenuous
 【考法1】  adj. 没有实际内容的：  having little substance; flimsy
 【例】 a tenuous argument 站不住脚的论点
@@ -16664,8 +16626,7 @@ thwart
 【考法1】  vt. 阻挠：  to oppose successfully
 【例】  She did all she could to thwart his plans.  她竭尽所能阻挠他的计划。
 【近】 baffle, balk, checkmate, discomfit
-【反】 advance, cultivate, encourage, forward, foster, further, nurture, promote, support, aid, bolster, abet, foment,
-facilitate  促进，支持
+【反】 advance, cultivate, encourage, forward, foster, further, nurture, promote, support, aid, bolster, abet, foment, facilitate  促进，支持
 ticklish
 【考法1】  adj. 易怒的：  easily offended or upset; touchy
 【例】  ticklish about his baldness 大家一提起他的秃头，他就暴怒 【近】 huffy, tetchy, thin-skinned
@@ -16682,8 +16643,7 @@ tightfisted
 【考法1】  adj. 吝啬的：  close-fisted; stingy
 【例】  The company is pretty tightfisted when it comes to bonuses. 这个公司分红的时候很吝啬。
 【近】 mean, miserly, parsimonious, penurious, sparing, stinting
-【反】  bounteous,  bountiful,  charitable,  freehanded,  generous,  liberal,  munificent,  openhanded,  unsparing,
-unstinting 慷慨大方的
+【反】  bounteous,  bountiful,  charitable,  freehanded,  generous,  liberal,  munificent,  openhanded,  unsparing, unstinting 慷慨大方的
 timeworn
 【考法1】  adj. 陈腐的：  hackneyed, stale
 【例】  timeworn jokes 老掉牙的笑话
@@ -16784,8 +16744,7 @@ tractable
 【考法1】  adj. 易驾驭的，温顺的：  readily giving in to the command or authority of another
 【例】  a tractable horse 一匹温顺的马
 【近】  obedient, amenable, docile, flexible, manageable, compliant, submissive, tame
-【反】  balky, contumacious, defiant, disobedient, incompliant, insubordinate, obstreperous, rebellious,
-recalcitrant, refractory, restive, unamenable, ungovernable, unruly, untoward, wayward, willful 任性的，难以驯服的
+【反】  balky, contumacious, defiant, disobedient, incompliant, insubordinate, obstreperous, rebellious, recalcitrant, refractory, restive, unamenable, ungovernable, unruly, untoward, wayward, willful 任性的，难以驯服的
 tranquility
 【考法1】  n. 宁静，淡定：  a state of freedom from storm or disturbance
 【例】 enjoyed the tranquillity of the snow-covered field at dusk 享受傍晚时分被雪覆盖的田野的静谧
@@ -16810,8 +16769,7 @@ transient
 【考法1】  adj. 短暂的，瞬时的：  passing with time; transitory
 【例】  transient pleasure 短暂的快乐
 【近】  transitory, ephemeral, evanescent, fleeting, temporary
-【反】  ceaseless,  dateless,  deathless,  endless,  enduring,  eternal,  everlasting,  immortal,  lasting,  long-lived,
-permanent, perpetual, timeless, undying, unending 永恒持久的
+【反】  ceaseless,  dateless,  deathless,  endless,  enduring,  eternal,  everlasting,  immortal,  lasting,  long-lived, permanent, perpetual, timeless, undying, unending 永恒持久的
 transitory
 【考法1】  adj. 短暂的：  existing or lasting only a short time; short-lived or temporary
 【例】  most of life’s joys are transitory 尘世间的欢乐都是过眼烟云，转瞬即逝
@@ -16829,8 +16787,7 @@ transparent
 【考法  2】  adj. 没有歧义，清晰易懂的：  not subject to misinterpretation or more than one interpretation
 【例】 His  meaning  in  leaving  the  conversation  is  transparent:  he  doesn't  want  to  talk  about  his  combatexperiences. 他结束这个话题的意图很明显：不想谈论当年参战的事。
 【近】 obvious, clear, apparent, patent, understandable, apprehensible, comprehendible, fathomable
-【反】  ambiguous, clouded, cryptic, enigmatic, equivocal, indistinct, mysterious, obfuscated, obscure, unapparent,
-unclarified, unclear, unclouded  难以理解的
+【反】  ambiguous, clouded, cryptic, enigmatic, equivocal, indistinct, mysterious, obfuscated, obscure, unapparent, unclarified, unclear, unclouded  难以理解的
 travail
 【考法1】  n./v. 辛苦劳动：  work, especially when arduous or involving painful effort
 【例】  writer’s literary travail 作家辛勤的文学创作 || Labor Day is the day on which we recognize those men
@@ -17091,8 +17048,7 @@ unruly
 【考法1】  adj. 难驾驭的，不守规矩的：  difficult or impossible to discipline, control, or rule.
 【例】  an unruly child 一个不听话的孩子
 【近】  indocile, indomitable, intractable, recalcitrant, uncontrollable, undisciplined, ungovernable, unmanageable,insubordinate
-【反】  amenable,  biddable,  compliant,  conformable,  docile,  obedient,  submissive,  tractable,  subdued,  mild,
-manageable, disciplined 顺从的，守纪律的
+【反】  amenable,  biddable,  compliant,  conformable,  docile,  obedient,  submissive,  tractable,  subdued,  mild, manageable, disciplined 顺从的，守纪律的
 untenable
 【考法1】  adj. 防守不住的，站不住脚的：  not able to be defended
 【例】  an untenable position 一个站不住脚的立场
@@ -17366,8 +17322,7 @@ versatile
 【考法2】  adj. 易改变的：  changing or fluctuating readily
 【例】  a versatile disposition 多变的性格
 【近】  capricious, changeable, fluid, inconstant, mercurial, skittish, temperamental, variable, volatile
-【反】  certain,  changeless,  constant,  immutable,  invariable,  settled,  stable,  stationary,  steady,  unchangeable,
-unvarying 固定的，不变的
+【反】  certain,  changeless,  constant,  immutable,  invariable,  settled,  stable,  stationary,  steady,  unchangeable, unvarying 固定的，不变的
 verse
 【考法1】  vt. 使精通，使熟悉：  to familiarize by close association, study, or experience
 【例】  well versed in the theater 精通剧院‖While in prison, he versed himself in the rights of the incarcerated.当他身处监狱时，他通过自学熟悉了囚犯所享有的权利。
@@ -18132,8 +18087,7 @@ pivotal?
 【考法1】  adj. 最关键的，最为重要的：  of the greatest possible importance
 【例】  The report was missing a pivotal piece of information. 报告遗漏了最为重要的信息。
 【近】  critical, crucial, decisive, key, vital
-【反】  inconsequential, inconsiderable, insignificant, marginal, minor, minute, negligible, nugatory, slight, trifling,
-trivial 不重要的
+【反】  inconsequential, inconsiderable, insignificant, marginal, minor, minute, negligible, nugatory, slight, trifling, trivial 不重要的
 unavailing?
 【考法1】  adj. 徒劳的，无果的：  producing no results
 【例】  an unavailing effort to avert a war 试图避免战争的徒劳尝试
@@ -18909,8 +18863,7 @@ affliction?
 【考法1】  n. 痛苦，悲伤，折磨：  a state of great suffering of body or mind
 【例】  She listened with deep affliction as her daughter told her about the latest trouble she was in. 她怀着巨大的痛苦聆听着女儿告诉她目前艰难的处境。
 【近】  agony, anguish, dolor, excruciation, grief, hurt, misery, pain, rack, torment, torture, travail, tribulation, woe
-【反】  bliss, cheer, delight, ecstasy, elation, euphoria, exhilaration, exuberance, exultation, felicity, joy, jubilation,
-pleasure, rapture  喜悦，高兴
+【反】  bliss, cheer, delight, ecstasy, elation, euphoria, exhilaration, exuberance, exultation, felicity, joy, jubilation, pleasure, rapture  喜悦，高兴
 dishearten?
 【考法1】  vt. 使沮丧，使失去信心：  to cause to lose spirit or morale
 【例】  We were greatly disheartened by the news that our grandmother was seriously ill.  听到祖母病重的消息，我们都很沮丧。
@@ -19473,8 +19426,7 @@ applicable
 【考法3】  adj. 合适的，恰当的：  meeting the requirements of a purpose or situation
 【例】  He has been busy in selecting the most applicable word for his PhD thesis. 他一致忙于为自己的博士论文选择最为恰当词汇。
 【近】  appropriate, apt, becoming, befitting, felicitous, fitting, meet, pretty, proper, right, suitable
-【反】  improper, inappropriate, inapt, incongruous, malapropos, misbecoming, unbecoming, unfitting, unmeet,
-unseemly, unsuitable, wrong 不恰当的
+【反】  improper, inappropriate, inapt, incongruous, malapropos, misbecoming, unbecoming, unfitting, unmeet, unseemly, unsuitable, wrong 不恰当的
 apprehensive
 【考法1】  adj. 知晓的，理解的：  having specified facts or feelings actively impressed on the mind
 【例】  I am fully apprehensive of the options, I assure you. 我向你保证这些观点我都理解了。
@@ -19544,8 +19496,7 @@ auspicious?
 【考法1】  adj. 好兆头的：  pointing toward a happy outcome
 【例】  began the season with an auspicious win against their strongest football rival  在赛季之初就战胜了最强的对手，为整个赛季赢得了好兆头
 【近】  bright, encouraging, golden, heartening, hopeful, promising, propitious
-【反】  baleful,  dark,  direful,  doomy,  foreboding,  gloomy,  menacing,  minatory,  ominous,  portentous,  sinister,
-threatening 不详的，凶兆的
+【反】  baleful,  dark,  direful,  doomy,  foreboding,  gloomy,  menacing,  minatory,  ominous,  portentous,  sinister, threatening 不详的，凶兆的
 austere?
 【考法1】  adj. 朴素的，朴实无华：  markedly simple or unadorned
 【例】  For the private office of the CEO of the large corporation, the room is unexpectedly austere. 出人意料的是，大公司总裁的私人办公室居然十分朴素。
