@@ -1,4 +1,5 @@
-List1
+&&&&&List1
+@@@@@Unit1@@@@@
 abandon
 【考法1】  n. 放纵：  carefree, freedom from constraint
 【例】  added spices to the stew with complete abandon 肆无忌惮地向炖菜里面加调料
@@ -12732,8 +12733,7 @@ propitious
 【考法1】  adj. 吉祥的：  favorably disposed: pointing toward a happy outcome
 【例】  propitious sign 吉祥的征兆
 【近】  auspicious, encouraging, fair, heartening, optimistic, promising, upbeat
-【反】  dim, discouraging, disheartening, futureless, hopeless, inauspicious, unfavorable, unpromising,
-unpropitious  不吉利的
+【反】  dim, discouraging, disheartening, futureless, hopeless, inauspicious, unfavorable, unpromising, unpropitious  不吉利的
 @@@@@Unit9@@@@@
 proponent
 【考法1】  n. 建议者，支持者：  one who argues in support of something; an advocate
@@ -18052,8 +18052,7 @@ perceptive?
 【考法2】  adj. 洞察力强的：  having or showing deep understanding and intelligent application of knowledge
 【例】  A perceptive teacher was able to discover what was really troubling the youth. 一个洞察力强的老师应该能察觉真正困扰青少年是什么。
 【近】  discerning, insightful, prudent, sagacious, sage, sapient
-【反】  brainless, dumb, foolish, idiotic, imbecile, moronic, silly, simple, slow, stupid, thoughtless,  unintelligent,
-unwise, witless 愚钝的
+【反】  brainless, dumb, foolish, idiotic, imbecile, moronic, silly, simple, slow, stupid, thoughtless,  unintelligent, unwise, witless 愚钝的
 @@@@@Unit3@@@@@
 renege?
 【考法1】  vt. 放弃，摒弃：  to solemnly or formally reject or go back on (as something formerly adhered to)
