@@ -4987,8 +4987,7 @@ dodder
 dodge
 ¡¾¿¼·¨1¡¿  v. ¶ã±Ü£º  to avoid (a blow, for example) by moving or shifting quickly aside
 ¡¾Àı¡¿  dodge a storm of bullets ¶ã±ÜÇ¹ÁÖµ¯Óê  || He dodged the first punch but was hit by the second. Ëû¶ã¹ıÁËµÚÒ»´Î´ò»÷µ«ÊÇÃ»ÓĞ¶ã¹ıµÚ¶ş´Î¡£
-¡¾½ü¡¿  avoid, escape, shirk, malinger, goldbrick, evade, parry, sidestep, circumvent, fence, hedge, avert, elude,
-shun, skirt, bilk, eschew, weasel
+¡¾½ü¡¿  avoid, escape, shirk, malinger, goldbrick, evade, parry, sidestep, circumvent, fence, hedge, avert, elude, shun, skirt, bilk, eschew, weasel
 doff
 ¡¾¿¼·¨1¡¿  vt. ÍÑÏÂ£º  to take off; remove
 ¡¾Àı¡¿  The blazing sun soon had the men doffing their jackets. ÖËÈÈµÄÌ«ÑôºÜ¿ì¾ÍÈÃÄĞÈËÃÇÍÑµôÁË¼Ğ¿Ë¡£
@@ -5785,8 +5784,7 @@ erratic
 ¡¾·´¡¿  changeless, constant, stable, steady, unchanging, unvarying ²»±äµÄ
 ¡¾¿¼·¨2¡¿  adj. Òì³£µÄ£¬²»Í¬Ñ°³£µÄ£º  different from the ordinary in a way that causes curiosity or suspicion
 ¡¾Àı¡¿  the key to the code was the erratic punctuation the killer used ½â¿ªÃÜÂëµÄ¹Ø¼üÊÇÉ±ÊÖÊ¹ÓÃµÄ²»Í¬Ñ°³£µÄ±êµã·ûºÅ
-¡¾½ü¡¿  bizarre,  eccentric,  offbeat,  outlandish,  out-of-the-way,  peculiar,  quaint,  queer,  remarkable,  screwy,
-spaced-out, way-out, weird
+¡¾½ü¡¿  bizarre,  eccentric,  offbeat,  outlandish,  out-of-the-way,  peculiar,  quaint,  queer,  remarkable,  screwy, spaced-out, way-out, weird
 erudite
 ¡¾¿¼·¨1¡¿  adj. ²©Ñ§µÄ£º  characterized by erudition; learned
 ¡¾Àı¡¿  an erudite scholar  Ô¨²©µÄÑ§Õß
@@ -7883,9 +7881,7 @@ humble
 ¡¾¿¼·¨1¡¿  adj. Ç«Ñ·µÄ£º  marked by meekness or modesty in behavior, attitude, or spirit; not arrogant or prideful
 ¡¾Àı¡¿ a medical scientist who remained remarkably humble even after winning the Nobel Prize »ñµÃÅµ±´¶û½±Ö®ºóÈÔÈ»±£³ÖÇ«Ñ·µÄÒ½Ñ§¼Ò
 ¡¾½ü¡¿ modest, unassuming, unpretentious, demure, down-to-earth
-¡¾·´¡¿ arrogant,  bumptious,  conceited,  egotistic,  haughty,  high-and-mighty,  imperious,  lordly,  overweening,
-peremptory,  pompous,  presuming,  presumptuous,  pretentious,  self-assertive,  supercilious,  superior,  toplofty,
-uppish, uppity °ÁÂıµÄ
+¡¾·´¡¿ arrogant,  bumptious,  conceited,  egotistic,  haughty,  high-and-mighty,  imperious,  lordly,  overweening, peremptory,  pompous,  presuming,  presumptuous,  pretentious,  self-assertive,  supercilious,  superior,  toplofty, uppish, uppity °ÁÂıµÄ
 ¡¾¿¼·¨2¡¿  adj. Ë³´ÓµÄ£¬Ç«±°µÄ£º  showing,  expressing,  or  offered  in  a  spirit  of  humility  or  unseemlysubmissiveness
 ¡¾Àı¡¿  please accept my humble thanks Çë½ÓÊÜÎÒµÄ±°Î¢µÄ¸ĞĞ»
 ¡¾½ü¡¿  base, humble, menial, servile, slavish
@@ -15492,9 +15488,7 @@ spectator
 ¡¾·´¡¿  actor, performer, player ±íÑİÕß
 spectrum?
 ¡¾¿¼·¨1¡¿  n. ·¶Î§£¬ÏµÁĞ£º  a broad sequence or range of related qualities, ideas, or activities
-¡¾Àı¡¿  the whole spectrum of 20th-century thought 20 ÊÀ¼ÍËùÓĞ²»Í¬µÄË¼³± ¡¬A  political  spectrum is a way  of
-modeling different political positions by placing them upon one or more geometric axes symbolizing independent
-political dimensions. ËùÎ½µÄÕşÖÎ¹âÆ×ÊÇÒ»ÖÖ½«²»Í¬µÄÕşÖÎÁ¢³¡¿ÉÊÓ»¯µÄÄ£ĞÍ£¬ËüÍ¨¹ıÒ»¸ù»òÕß¶à¸ù¼¸ºÎ×ø±êÖáÀ´¶¨Î»²»Í¬µÄÕşÖÎÌ¬¶È¡£
+¡¾Àı¡¿  the whole spectrum of 20th-century thought 20 ÊÀ¼ÍËùÓĞ²»Í¬µÄË¼³± ¡¬A  political  spectrum is a way  of modeling different political positions by placing them upon one or more geometric axes symbolizing independent political dimensions. ËùÎ½µÄÕşÖÎ¹âÆ×ÊÇÒ»ÖÖ½«²»Í¬µÄÕşÖÎÁ¢³¡¿ÉÊÓ»¯µÄÄ£ĞÍ£¬ËüÍ¨¹ıÒ»¸ù»òÕß¶à¸ù¼¸ºÎ×ø±êÖáÀ´¶¨Î»²»Í¬µÄÕşÖÎÌ¬¶È¡£
 ¡¾½ü¡¿ diapason, gamut, scale, spread, stretch
 speculate
 ¡¾¿¼·¨1¡¿  vt. ÍÆ²â£¬´§²â£º  to take to be true on the basis of insufficient evidence
@@ -15587,9 +15581,7 @@ about the rising crime rate. ÓĞ¿ÉÄÜÊ§È¥Î¨Ò»µÄÌåÓıÈüÊÂ¾Ù°ìÈ¨´øÀ´µÄÍşĞ²£¬³ÉÎªÁË´Ì¼
 ¡¾·´¡¿  bridle, check, constrain, curb, deter, fetter, hamper, inhibit, manacle, shackle ÖÆÖ¹£¬×è°­
 spurious
 ¡¾¿¼·¨1¡¿  adj. ¼ÙµÄ£¬Î±ÔìµÄ£º  lacking authenticity or validity in essence or origin; not genuine
-¡¾Àı¡¿  In statistics, a spurious relationship is a mathematical relationship in which two events or variables have no
-direct causal connection, but it may be wrongly inferred that they do, due to either coincidence or the presence of
-a certain third, unseen factor. ÔÚÍ³¼ÆÑ§ÖĞ£¬¡°Î±Ïà¹Ø¹ØÏµ¡±ÊÇÁ½¸ö²»´æÔÚÒò¹û¹ØÁªµÄÊÂ¼ş»ò±äÁ¿£¬ÒòÎªÇÉºÏ»òÊÇ²»¿É¼ûµÄµÚÈı·½ÒòËØ£¬¶ø±»ÎóÅĞÎª´æÔÚÒò¹ûÁªÏµµÄ¹ØÏµ¡£
+¡¾Àı¡¿  In statistics, a spurious relationship is a mathematical relationship in which two events or variables have no direct causal connection, but it may be wrongly inferred that they do, due to either coincidence or the presence of a certain third, unseen factor. ÔÚÍ³¼ÆÑ§ÖĞ£¬¡°Î±Ïà¹Ø¹ØÏµ¡±ÊÇÁ½¸ö²»´æÔÚÒò¹û¹ØÁªµÄÊÂ¼ş»ò±äÁ¿£¬ÒòÎªÇÉºÏ»òÊÇ²»¿É¼ûµÄµÚÈı·½ÒòËØ£¬¶ø±»ÎóÅĞÎª´æÔÚÒò¹ûÁªÏµµÄ¹ØÏµ¡£
 ¡¾½ü¡¿  apocryphal, bogus, counterfeit, fake, forged, phony, sham
 ¡¾·´¡¿  authentic, bona fide, genuine, real ÕæÊµµÄ
 ¡¾ÅÉ¡¿  spuriously adv. Î±ÔìµØ£¬Ğé¼ÙµØ
@@ -16265,8 +16257,7 @@ suppress
 ¡¾·´¡¿ stimulate ¼¤Àø
 ¡¾¿¼·¨2¡¿  v. ÓÃ±©Á¦ÖÕÖ¹£¬ÕòÑ¹£º  to put a stop to (something) by the use of force
 ¡¾Àı¡¿  Nothing could suppress the rising tide of protest. ±©Á¦Ò²ÄÑÒÔ¿ØÖÆÔ½À´Ô½¼¤ÁÒµÄÓÎĞĞÊ¾Íş»î¶¯¡£
-¡¾½ü¡¿  clamp down on, crack down on, put down, quash, repress, silence, slap down, snuff out, squash, squelch,
-subdue
+¡¾½ü¡¿  clamp down on, crack down on, put down, quash, repress, silence, slap down, snuff out, squash, squelch,subdue
 surcharge
 ¡¾¿¼·¨1¡¿  v./n. ¹ı¸ßÊÕ·Ñ£º  to charge (someone) too much for goods or services
 ¡¾Àı¡¿  The airline has added a $30 fuel surcharge on all international flights. ¸Ãº½¿Õ¹«Ë¾¶ÔËùÓĞ¹ú¼Êº½ÏßÉÏÕÇÁË30 ÃÀÔªµÄÈ¼ÓÍË°¡£
@@ -16681,8 +16672,7 @@ ticklish
 ¡¾·´¡¿ imperturbable  Õò¾²µÄ
 ¡¾¿¼·¨2¡¿  adj. ¼¬ÊÖµÄ£¬¶Ô¼¼ÇÉÒªÇó¸ßµÄ£º  requiring exceptional skill or caution in performance or handling
 ¡¾Àı¡¿  Trying to tell him that his zipper is down without embarrassing him will be a ticklish task. ÈçºÎÌåÃæµÃÌåµØÌáĞÑËûÀ­Á´Ã»¹ØºÃÊÇÒ»¸ö¼¼ÇÉ»î¶ù¡£
-¡¾½ü¡¿  catchy, delicate, difficult, dodgy, knotty, prickly, problematic, sensitive, spiny, sticky, thorny, touchy, tough,
-tricksy
+¡¾½ü¡¿  catchy, delicate, difficult, dodgy, knotty, prickly, problematic, sensitive, spiny, sticky, thorny, touchy, tough, tricksy
 tiff
 ¡¾¿¼·¨1¡¿  n./v. Ğ¡Õù³³£º  a petty quarrel
 ¡¾Àı¡¿  got into a little tiff about what color sheets to buy for their bed ¶ÔÓÚÂòÊ²Ã´ÑÕÉ«µÄ´²µ¥Õù³³
@@ -16826,8 +16816,7 @@ transitory
 ¡¾¿¼·¨1¡¿  adj. ¶ÌÔİµÄ£º  existing or lasting only a short time; short-lived or temporary
 ¡¾Àı¡¿  most of life¡¯s joys are transitory ³¾ÊÀ¼äµÄ»¶ÀÖ¶¼ÊÇ¹ıÑÛÑÌÔÆ£¬×ªË²¼´ÊÅ
 ¡¾½ü¡¿ transient, ephemeral, evanescent, fleeting, temporary
-¡¾·´¡¿ ceaseless,  dateless,  deathless,  endless,  enduring,  eternal,  everlasting,  immortal,  lasting,  long-lived,
-permanent, perpetual, timeless, undying, unending
+¡¾·´¡¿ ceaseless,  dateless,  deathless,  endless,  enduring,  eternal,  everlasting,  immortal,  lasting,  long-lived, permanent, perpetual, timeless, undying, unending
 translucent
 ¡¾¿¼·¨1¡¿  adj. Í¸Ã÷µÄ£º  permitting the passage of light: clear, transparent
 ¡¾Àı¡¿  translucent dewdrop Í¸Ã÷µÄÂ¶Öé
@@ -16850,8 +16839,7 @@ and women who daily travail with little appreciation or compensation. ÀÍ¶¯½ÚÊÇÎÒ
 traverse
 ¡¾¿¼·¨1¡¿  vt. ºá´©£º  to travel or pass across, over, or through
 ¡¾Àı¡¿  The spider traversed the wall from end to end. Ö©ÖëÏÀÅÊÑÒ×ß±Ú¡£
-¡¾½ü¡¿  course, cover, cross, cut across,  navigate, pass over, perambulate, peregrinate, proceed  along, transit,
-travel
+¡¾½ü¡¿  course, cover, cross, cut across,  navigate, pass over, perambulate, peregrinate, proceed  along, transit, travel
 travesty
 ¡¾¿¼·¨1¡¿  n./v. ×¾ÁÓµÄ¡¢³°ÅªĞÔÄ£·Â£º  an exaggerated or grotesque imitation, such as a parody of a literary work
 ¡¾Àı¡¿  a travesty of his classmate¡¯s manner  »¬»üµÄÄ£·ÂÆäËûÍ¬Ñ§µÄ¾ÙÖ¹
@@ -16979,8 +16967,7 @@ turpitude???[???????????]
 twig ?[????]
 ¡¾¿¼·¨1¡¿  v. ÁË½â£º  to have a clear idea of
 ¡¾Àı¡¿  It took me a while to twig the true nature of the relationship between the two women. ÎÒ»¨ÁËºÜ¾ÃÊ±¼ä²Å¸ãÇå³şÕâÁ©Å®ÈËÖ®¼äµÄ¹ØÏµ¡£
-¡¾½ü¡¿  appreciate, apprehend, cognize, compass, conceive, decipher, decode, dig, discern, perceive, recognize,
-savvy, seize, sense, tumble to, catch on to, make out
+¡¾½ü¡¿  appreciate, apprehend, cognize, compass, conceive, decipher, decode, dig, discern, perceive, recognize, savvy, seize, sense, tumble to, catch on to, make out
 typo
 ¡¾¿¼·¨1¡¿  n. ´ò×Ö´íÎó£º  an error in typed or typeset material
 ¡¾Àı¡¿  make one typo on the memo ÔÚÑùÕÅÉÏ´ò´íÒ»¸ö×Ö
@@ -17085,9 +17072,7 @@ unpretentious
 ¡¾¿¼·¨1¡¿  adj. µÍµ÷µÄ£¬Ç«Ñ·µÄ£º  lacking pretension or affectation; modest
 ¡¾Àı¡¿  an unpretentious virtuoso Ò»Î»Ç«ĞéµÄ´óÊ¦
 ¡¾½ü¡¿  demure, down-to-earth, lowly, meek, unassuming, humble, modest, unostentatious
-¡¾·´¡¿ arrogant, bumptious, conceited, egotistic, fastuous, haughty, imperious, lordly, overweening, peremptory,
-pompous, presuming, presumptuous, self-asserting, supercilious, superior, toplofty, uppish, flamboyant,
-ostentatious °ÁÂıµÄ£¬×Ô¸ºµÄ
+¡¾·´¡¿ arrogant, bumptious, conceited, egotistic, fastuous, haughty, imperious, lordly, overweening, peremptory, pompous, presuming, presumptuous, self-asserting, supercilious, superior, toplofty, uppish, flamboyant, ostentatious °ÁÂıµÄ£¬×Ô¸ºµÄ
 ¡¾¿¼·¨2¡¿  adj. Ì¹³ÏµÄ£¬×ÔÈ»µÄ£º  free from any intent to deceive or impress others
 ¡¾Àı¡¿  a simple and unpretentious account about growing up in the rural South Ò»¶Î¼òµ¥Ì¹ÂÊµÄ¹ØÓÚÔÚÄÏ²¿Ïç´å³É³¤¾­ÀúµÄĞğÊö
 ¡¾½ü¡¿  artless, genuine, honest, ingenuous, innocent, naive, simple, sincere, true, unpretending
@@ -17972,11 +17957,7 @@ ravenous
 ¡¾·´¡¿  content, sated, satiated, satisfied ĞÄÂúÒâ×ãµÄ
 simile?
 ¡¾¿¼·¨1¡¿  n. Ã÷Ó÷£º  a figure of speech comparing two unlike things that is often introduced by like or as
-¡¾Àı¡¿Even though both similes and metaphors are forms of comparison, similes indirectly compare the two ideas
-and allow them to remain distinct in spite of their similarities, whereas metaphors compare two things directly. For
-instance, a simile that compares a person with a bullet would go as follows: "Chris was a record-setting runner as
-fast as a speeding bullet." A metaphor might read something like, "When Chris ran, he was a speeding bullet
-racing along the track." ¾¡¹ÜÃ÷Ó÷ºÍ°µÓ÷¶¼ÊÇ±ÈÓ÷µÄÊÖ·¨£¬Ã÷Ó÷»á¼ä½ÓµØ¶ÔÁ½¸ö¶ÔÏó½øĞĞ±È½Ï£¬Í¬Ê±ÔÊĞí²îÒìµÄ´æÔÚ£¬¶ø°µÓ÷ÔòÖ±½Ó¶ÔÁ½Õß½øĞĞ±È½Ï¡£±ÈÈçËµ£¬ÓÃÃ÷Ó÷À´°ÑÒ»¸öÈË±È×÷×Óµ¯»áÕâÑùËµ£º¡°¿ËÀïË¹ÊÇÒ»¸ö²»¶Ï´òÆÆ¼ÇÂ¼µÄÑ¡ÊÖ£¬ËûÅÜµÃ¾ÍºÍ¸ßËÙ×Óµ¯Ò»Ñù¿ì¡£¡±¶ø°µÓ÷¿ÉÄÜ»áËµ£º¡°µ±¿ËÀïË¹±¼ÅÜµÄÊ±ºò£¬Ëû¾ÍÊÇÒ»¿ÅÔÚÈü³¡ÉÏ¸ßËÙ·ÉĞĞµÄ×Óµ¯¡£¡±
+¡¾Àı¡¿Even though both similes and metaphors are forms of comparison, similes indirectly compare the two ideas and allow them to remain distinct in spite of their similarities, whereas metaphors compare two things directly. For instance, a simile that compares a person with a bullet would go as follows: "Chris was a record-setting runner as fast as a speeding bullet." A metaphor might read something like, "When Chris ran, he was a speeding bullet racing along the track." ¾¡¹ÜÃ÷Ó÷ºÍ°µÓ÷¶¼ÊÇ±ÈÓ÷µÄÊÖ·¨£¬Ã÷Ó÷»á¼ä½ÓµØ¶ÔÁ½¸ö¶ÔÏó½øĞĞ±È½Ï£¬Í¬Ê±ÔÊĞí²îÒìµÄ´æÔÚ£¬¶ø°µÓ÷ÔòÖ±½Ó¶ÔÁ½Õß½øĞĞ±È½Ï¡£±ÈÈçËµ£¬ÓÃÃ÷Ó÷À´°ÑÒ»¸öÈË±È×÷×Óµ¯»áÕâÑùËµ£º¡°¿ËÀïË¹ÊÇÒ»¸ö²»¶Ï´òÆÆ¼ÇÂ¼µÄÑ¡ÊÖ£¬ËûÅÜµÃ¾ÍºÍ¸ßËÙ×Óµ¯Ò»Ñù¿ì¡£¡±¶ø°µÓ÷¿ÉÄÜ»áËµ£º¡°µ±¿ËÀïË¹±¼ÅÜµÄÊ±ºò£¬Ëû¾ÍÊÇÒ»¿ÅÔÚÈü³¡ÉÏ¸ßËÙ·ÉĞĞµÄ×Óµ¯¡£¡±
 ¡¾·´¡¿  metaphor °µÓ÷
 shift
 ¡¾¿¼·¨1¡¿  vt. ¸Ä±ä¡­µÄÎ»ÖÃ£º  to change the place or position of
