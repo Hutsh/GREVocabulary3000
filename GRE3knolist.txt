@@ -1085,8 +1085,7 @@ assuage
 【考法2】vt. 平息，抚慰：to pacify or calm
 【例】Life contains sorrows that cannot be assuaged, and it is important to be honest in acknowledging this. 生活中存在着无法平息的悲伤，诚实地承认这个事实才是重要的。
 【近】compose,  soothe,  calm,  pacify,  placate,  appease,  lighten,  relieve,  alleviate,  assuage,  allay,  mitigate,moderate, conciliate, propitiate
-【反】aggravate, annoy, enrage, exasperate, incense, infuriate, ire, irk, irritate, madden, nettle, peeve, provoke,
-rile, roil, vex  煽动，激起
+【反】aggravate, annoy, enrage, exasperate, incense, infuriate, ire, irk, irritate, madden, nettle, peeve, provoke, rile, roil, vex  煽动，激起
 【考法3】vt. 使满足：to put an end to by satisfying
 【例】assuage his thirst  消渴
 【例】That meal certainly assuaged my hunger. 那顿大餐满足了我的口腹之欲。
@@ -1179,8 +1178,7 @@ authority
 【考法1】n. （某领域的）权威人士：a person with a high level of knowledge or skill in a field
 【例】a leading authority on neural anatomy 一名神经解剖学领域的权威人士
 【近】expert, connoisseur, maestro, master, virtuoso
-【反】amateur 业余爱好者
-inexpert 非专家
+【反】amateur 业余爱好者 inexpert 非专家
 【考法2】n. 管辖权，控制：lawful control over the affairs of a political unit (as a nation)
 【例】The sheriff had authority over the whole county. 郡守对于整个郡都有管辖权
 【近】administration, governance, regime, regimen
@@ -1599,7 +1597,7 @@ bland
 【近】mild, light, soft, soothing, tender
 【反】pungent, tangy, zesty 味道刺激的
 【考法2】adj. 无趣的：dull, insipid
-【例】a bland story with na ve plot 一个情节幼稚的无聊故事
+【例】a bland story with naive plot 一个情节幼稚的无聊故事
 【近】banal, sapless, insipid
 【反】riveting, enchanting 诱人的
 【考法3】adj. 温和的，和蔼的：not harsh or stern especially in nature or effect
@@ -2503,8 +2501,7 @@ cliché
 clog
 【考法1】n. 阻碍物：something that makes movement or progress difficult
 【例】impede with a clog  用障碍物阻止
-【近】balk,  bar,  block,  deterrent,  drag,  fetter,  holdback,  hurdle,  impediment,  inhibition,  interference,  obstacle,
-obstruction, shackles, stop, stumbling block, trammel
+【近】balk,  bar,  block,  deterrent,  drag,  fetter,  holdback,  hurdle,  impediment,  inhibition,  interference,  obstacle, obstruction, shackles, stop, stumbling block, trammel
 【考法2】v. 阻碍：to create difficulty for the work or activity of
 【例】They always clog the courts. 他们一直阻挠法庭工作。
 【近】encumber, fetter, hinder, hold back, hold up, impede, inhibit, interfere with, obstruct, shackle, stymie, tie up,trammel
@@ -2516,8 +2513,7 @@ obstruction, shackles, stop, stumbling block, trammel
 clot
 【考法1】n. 密集的一群：a number of things considered as a unit
 【例】A clot of daisies occupied one corner of the flower bed. 一簇雏菊占据了花床的一角。
-【近】array, assemblage, band, block, bunch, cluster, clutch, collection, constellation, grouping, huddle, knot, lot,
-muster, package
+【近】array, assemblage, band, block, bunch, cluster, clutch, collection, constellation, grouping, huddle, knot, lot, muster, package
 【考法2】v. 堵塞：to prevent passage through by filling with something
 【例】Within a few years the pipe began to clog up. 没有几年，管子就开始堵塞了。
 【近】block, choke, clog, gum up, jam, obstruct, occlude, stop up, stuff
@@ -2640,8 +2636,7 @@ combustible
 【考法1】adj. 可燃的：capable of igniting and burning
 【例】release a combustible gas  释放出可燃性气体
 【近】burnable, combustive, flammable, ignitable, inflammable
-【反】incombustible,  nonburnable,  noncombustible,  nonflammable,  noninflammable,  unburnable  不可燃的；
-fireproof  防火的
+【反】incombustible,  nonburnable,  noncombustible,  nonflammable,  noninflammable,  unburnable  不可燃的； fireproof  防火的
 【考法2】adj. 容易激动的：easily excited
 【例】a high-strung combustible temper 一碰就火的性格
 【近】excitable, agitable, touchy
@@ -2667,8 +2662,7 @@ commend
 【考法1】vt. 赞扬：to mention with approbation: praise
 【例】Jason commended his students' studious attitude. Jason 表扬了他的学生的用功的态度。
 【近】approbate, praise, acclaim, applaud, compliment, eulogize, extol
-【反】blame, criticize,  reprehend,  reprobate, chide,  rebuke,  reprimand,  reproach,  reprove, censure, admonish
-berate, deplore, execrate 责备，批评，谴责诅咒，憎恶，痛骂
+【反】blame, criticize,  reprehend,  reprobate, chide,  rebuke,  reprimand,  reproach,  reprove, censure, admonish berate, deplore, execrate 责备，批评，谴责诅咒，憎恶，痛骂
 【考法2】vt. 委托保管：to entrust for care or preservation
 【例】I commend my fate into your hands. 我的命运就拜托给你了。
 【近】commit, delegate, deliver, entrust, confide, consign, hand over
@@ -2774,8 +2768,7 @@ compose
 compound
 【考法1】n. 混和物：composed of or resulting from union of separate elements, ingredients, or parts
 【例】mixed the chemicals together to form a new compound 将化学试剂混合形成新的化合物
-【近】admixture, alloy, amalgam, amalgamation, cocktail, combination, composite, fusion, intermixture, meld, mix,
-conflation, synthesis
+【近】admixture, alloy, amalgam, amalgamation, cocktail, combination, composite, fusion, intermixture, meld, mix, conflation, synthesis
 【考法2】adj. 混合的：consisting of two or more substances, ingredients, elements, or parts
 【例】a compound word  复合词 || “Steamboat” is a compound noun. “汽船”是一个复合名词。
 【近】amalgamated
@@ -3485,7 +3478,7 @@ credence
 credulous
 【考法1】adj. 轻信的，易受骗的：disposed to believe too readily; gullible
 【例】accused of swindling credulous investors  被控欺骗轻信的投资者
-【近】believing, unwary, gullible, na ve, unsuspecting
+【近】believing, unwary, gullible, naive, unsuspecting
 【反】disbelieving, skeptical 怀疑的
 【派】credulity n. 轻信
 creek
@@ -3598,7 +3591,7 @@ cunning
 【考法1】adj. 狡猾的：marked by or given to artful subtlety and deceptiveness
 【例】cunning tactics  狡猾的战术
 【近】artful, crafty, devious, foxy, sly, tricky, wily
-【反】artless, na ve, unsophisticated 天真无邪的
+【反】artless, naive, unsophisticated 天真无邪的
 【考法2】adj. （手工）灵巧的：skillful with the hands
 【例】Only the most cunning cabinetmaker could have crafted such a beautifully proportioned chest of drawers.只有手工超凡的家具工才能打造出如此精致协调的衣柜
 【近】clever, deft, handy
@@ -4394,8 +4387,7 @@ dire
 【反】propitious , unthreatening 吉利的，吉祥的
 【考法2】adj. 可怕的，恐怖的：causing fear
 【例】a series of dire tremors that hinted at a volcanic eruption 一系列暗示火山爆发的恐怖的震动
-【近】alarming,  dire,  direful,  dread,  dreadful,  fearsome,  forbidding,  formidable,  frightening,  frightful,  ghastly,
-hair-raising, horrendous, horrible, horrifying, intimidating, redoubtable, scary, shocking, terrible, terrifying
+【近】alarming,  dire,  direful,  dread,  dreadful,  fearsome,  forbidding,  formidable,  frightening,  frightful,  ghastly, hair-raising, horrendous, horrible, horrifying, intimidating, redoubtable, scary, shocking, terrible, terrifying
 【考法3】adj. 迫切的：needing immediate attention; urgent
 【例】There is a dire need for food and medicine in the famine-stricken country. 在闹饥荒的国家迫切需要食物和药品。
 【近】immediate, burning, compelling, critical, crying, emergent, exigent, imperative, imperious, importunate,instant, necessitous, pressing, urgent
@@ -6719,8 +6711,7 @@ frail
 【考法1】adj. 虚弱的：physically weak
 【例】Working for three days without any sleep made him extremely frail. 连续三天的彻夜工作使他极为虚弱
 【近】weak, effete, enervated, feeble, fragile, infirm, languid, unsubstantial
-【反】robust 充满活力的
-hale, sturdy 健壮的
+【反】robust 充满活力的 hale, sturdy 健壮的
 【考法2】adj. （意志）薄弱的：easily led astray; morally weak
 【例】frail and pathetic humanity 容易误入歧途的可悲人性
 【近】characterless, invertebrate, nerveless, spineless
@@ -6836,8 +6827,7 @@ frustrate
 【考法1】vt. 挫败，阻挠：to prevent from accomplishing a purpose or fulfilling a desire
 【例】frustrated their scheme in time 及时挫败了他们的阴谋
 【近】ruin, baffle, balk, circumvent, foil, thwart
-【反】abet 帮助，鼓舞，教唆
-accomplish, fulfill 实现
+【反】abet 帮助，鼓舞，教唆 accomplish, fulfill 实现
 【考法2】vt. 使沮丧：to lessen the courage or confidence of
 【例】frustrated by his failure  为他的失败感到沮丧
 【近】chill, daunt, dishearten, dismay, dispirit
@@ -7889,8 +7879,7 @@ immaculate
 【考法1】adj. 干净的，纯净的：free from dirt or stain; free from any trace of the coarse or indecent
 【例】an immaculate soul 一个纯净的灵魂
 【近】antiseptic, chaste, clean, decent, modest, pristine, pure, spotless, stainless, virgin
-【反】coarse, indecent, obscene, vulgar 粗俗的,下流的；besmirched,  dirty,  filthy,  foul,  spotted,  stained,
-sullied 有污点的，不干净的
+【反】coarse, indecent, obscene, vulgar 粗俗的,下流的；besmirched,  dirty,  filthy,  foul,  spotted,  stained, sullied 有污点的，不干净的
 【考法2】adj. 完美的，没有任何错误的：being entirely without fault or flaw
 【例】an immaculate rendering of the Queen of the Night ’s aria （《魔笛》中）夜后咏叹调的完美演绎
 【近】absolute, faultless, flawless, impeccable, indefectible, irreproachable, perfect, seamless, unblemished
@@ -8489,7 +8478,7 @@ infamous
 【派】infamy n. 声名狼藉
 infatuate
 【考法1】vt. 使迷恋：to inspire with unreasoning love or attachment
-【例】a na ve girl infatuated by cajolery 被甜言蜜语冲昏头脑的天真女孩
+【例】a naive girl infatuated by cajolery 被甜言蜜语冲昏头脑的天真女孩
 【近】allure, captivate, bewitch, enchant, fascinate
 【反】disgust 使反感
 【派】infatuation n. 迷恋
@@ -8575,7 +8564,7 @@ ingenuity
 ingenuous
 【考法1】adj. 天真淳朴的：lacking in cunning, guile, or worldliness
 【例】Photographs captured the ingenuous smiles of young children at play. 摄影家捕捉到了演出中孩子们天真无邪的笑脸
-【近】artless, innocent, guileless, na ve, simple, unaffected, unpretending, unsophisticated
+【近】artless, innocent, guileless, naive, simple, unaffected, unpretending, unsophisticated
 【反】artful, cunning, sly  狡猾的；assuming, hypocritical 虚伪做作的；sophisticated, worldly  世故的，老练的
 【考法2】adj. 坦白的：openly straightforward or frank
 【例】her ingenuous thirst for knowledge 她对知识毫不掩饰的渴望
@@ -10560,9 +10549,9 @@ nadir
 【例】the nadir on the curve 曲线上的最低点
 【近】base, bottom, foot
 【反】acme, apex, climax, meridian, peak, pinnacle, summit, top, zenith 最高点
-na ve
+naive
 【考法1】adj. 天真纯朴的：lacking worldly experience and understanding, simple and guileless
-【例】a child with a na ve charm 天真无邪的孩子
+【例】a child with a naive charm 天真无邪的孩子
 【近】artless, guileless, ingenuous, innocent, natural, simple, unaffected, unsophisticated
 【反】sophisticated, worldly 世故的；affected, artful, assuming, dishonest, dissembling, guileful  虚伪、做作的
 【派】naivety n. 天真
@@ -14485,8 +14474,7 @@ serene
 【考法1】adj. 安静的：free from disturbing noise or uproar
 【例】a serene vacation spot  一处宁谧的度假胜地
 【近】arcadian, calm, hushed, peaceful, placid, restful, still, tranquil
-【反】boisterous,  clamorous,  clattery,  deafening,  raucous,  roistering,  romping,  rowdy,  tumultuous,  unquiet,
-uproarious
+【反】boisterous,  clamorous,  clattery,  deafening,  raucous,  roistering,  romping,  rowdy,  tumultuous,  unquiet, uproarious
 【考法2】adj. 稳重的，镇静的：unaffected by disturbance; calm and unruffled
 【例】a serene man who was everyone's source of support 一个沉着镇静的男人，他是所有人的精神支柱
 【近】collected, composed, possessed, recollected, undisturbed, unperturbed, unruffled
@@ -14586,7 +14574,7 @@ shrewd
 【考法1】adj. 精明的，机敏的：having or showing a practical cleverness or judgment
 【例】He's shrewd about his investments. 他是个精明的投资人。
 【近】crafty, cunning, devious, sly, subtle, wily, astute, savvy, sharp
-【反】foolish, na ve, unknowing 愚蠢的，幼稚的
+【反】foolish, naive, unknowing 愚蠢的，幼稚的
 【考法2】adj. 刺骨的，强烈的：causing intense discomfort to one's skin
 【例】She pulled her coat tighter against the shrewd breeze whipping down the alley. 巷子里挂着刺骨的风，她拉紧了大衣。
 【近】biting, bitter, keen, penetrating, piercing, raw, sharp, stinging
@@ -15085,7 +15073,7 @@ sophisticated
 【考法1】adj. 精明的，老于世故的：having  acquired  worldly  knowledge  or  refinement;  lacking  naturalsimplicity or naiveté
 【例】On the train I met a surprisingly sophisticated and widely traveled child. 在火车上我见到了一个老练得让人惊讶的、见多识广的孩子。
 【近】cosmopolitan, debonair, knowing, smart, suave, urbane, worldly
-【反】guileless, ingenuous, innocent, na ve 天真的
+【反】guileless, ingenuous, innocent, naive 天真的
 【考法2】adj. 复杂的：very complex or complicated
 【例】a very sophisticated machine that is a marvel of modern design  一个十分复杂的机器，是现代设计的最高成就
 【近】baroque, byzantine, complicated, convoluted, elaborate, intricate, involved, knotty, labyrinthine, tangled
@@ -17501,7 +17489,7 @@ worldly
 【考法2】adj. 老练的：experienced in human affairs
 【例】My little sister was worldly and sophisticated, quite unlike me. 与我截然不同的是，我的妹妹在为人处世方面非常老练。
 【近】cosmopolitan, sophisticated
-【反】ingenuous, innocent, na ve, unsophisticated 天真的
+【反】ingenuous, innocent, naive, unsophisticated 天真的
 worship
 【考法1】n. 崇拜，敬仰：extravagant respect to an object of esteem
 【例】the belief in swords and the worship of force 刀剑信仰与武力崇拜
@@ -17629,8 +17617,7 @@ plodder
 misapprehension
 【考法1】n. 错误的理解：a failure to understand correctly
 【例】tried to eliminate all misapprehensions about the planned riverfront development 尽可能消除所有关于河流沿岸发展计划的误解
-【近】incomprehension,  misconstruction,  misconstruing,  misimpression,  misinterpretation,  misknowledge,
-misreading, misunderstanding
+【近】incomprehension,  misconstruction,  misconstruing,  misimpression,  misinterpretation,  misknowledge, misreading, misunderstanding
 【考法2】n. 错误的判断：a wrong judgement
 【例】a common misapprehension about how our language functions  有关我们的语言如何运作的常见误判
 【近】miscalculation, misjudging, misjudgment, misstep, slip, slipup
@@ -18133,7 +18120,7 @@ conflagration
 【反】peace 和平；truce 休战
 crow
 【考法1】vi. 感到高兴：to feel or express joy or triumph
-【例】Being the home of the new Super Bowl champs was the first thing that city residents had to crow about ina very long time. 当地的队伍获得超级碗冠军队伍是这个城市居民长期以来得以感到高兴的第一件事情。
+【例】Being the home of the new Super Bowl champs was the first thing that city residents had to crow about in a very long time. 当地的队伍获得超级碗冠军队伍是这个城市居民长期以来得以感到高兴的第一件事情。
 【近】delight, exuberate, glory, jubilate, joy, rejoice, triumph
 【反】bemoan, bewail, grieve, lament, weep 感到悲伤，叹息
 【考法2】vi. 自鸣得意：to praise or express pride in one's own possessions, qualities, or accomplishmentsoften to excess
@@ -18475,8 +18462,7 @@ glacial
 【考法1】adj. 极冷的：extremely cold
 【例】The air from the sea felt glacial.  海上的空气冷极了。
 【近】algid, arctic, bitter, chilling, coldish, cool, freezing, frigid, frosty, gelid, icy, nippy, numbing, polar, snappy
-【反】ardent, blazing, burning, fervent, fervid, molten, roasting, scalding, scorching, searing, sultry, sweltering,
-torrid 炎热的
+【反】ardent, blazing, burning, fervent, fervid, molten, roasting, scalding, scorching, searing, sultry, sweltering, torrid 炎热的
 【考法2】adj. 冷漠的，无感情的：devoid of warmth and cordiality
 【例】The Duchess gave him a glacial look and moved on. 公爵夫人冷冷地看了他一眼，然后就继续上路了。
 【近】antiseptic, apathetic, brittle, chilly, cold-blooded, frozen, indifferent, unfriendly, unsympathetic, wintry
@@ -18532,8 +18518,7 @@ frosty
 【考法1】adj. 寒冷的：having a low or subnormal temperature
 【例】a frosty autumn that was a sign of the brutal winter that followed 一个极为寒冷的秋天，它象征着随之而来的、可能更加残暴的冬季
 【近】algid, arctic, bitter, chilling, coldish, cool, freezing, frigid, gelid, glacial, icy, nippy, numbing, polar, snappy
-【反】ardent, blazing, burning, fervent, fervid, molten, roasting, scalding, scorching, searing, sultry, sweltering,
-torrid 炎热的
+【反】ardent, blazing, burning, fervent, fervid, molten, roasting, scalding, scorching, searing, sultry, sweltering, torrid 炎热的
 【考法2】adj. 无强烈感情的，冷淡的：lacking in friendliness or warmth of feeling
 【例】She gave the telemarketer on the phone a frosty “No, thank you” and hung up. 她向电话那头的推销员冷冷地说了一句“不，谢谢”之后就挂掉了电话。
 【近】antiseptic, apathetic, brittle, chilly, cold-blooded, frozen, indifferent, unfriendly, unsympathetic, wintry
@@ -18994,8 +18979,7 @@ agreeable
 【考法1】adj. 令人愉悦的：pleasing to the mind or senses especially as according well with one's tastes orneeds
 【例】Would you mind putting on some agreeable music for dinner   你介意为晚饭放一些令人愉快的音乐吗？‖the agreeable melancholy resulting from a sense of the transitoriness of natural beauty 因为感慨自然之美稍纵即逝而产生的令人愉悦的忧伤
 【近】congenial,  delectable,  delicious,  delightful,  dulcet,  enjoyable,  felicitous,  gratifying,  heavenly,  palatable,pleasing, satisfying, savory
-【反】abhorrent, abominable, disagreeable, disgusting, loathsome, nauseating, repellent, repugnant, repulsive,
-revolting 令人厌恶的
+【反】abhorrent, abominable, disagreeable, disgusting, loathsome, nauseating, repellent, repugnant, repulsive, revolting 令人厌恶的
 【考法2】adj. 随和的：having an easygoing and pleasing manner especially in social situations
 【例】I have an agreeable art teacher who lets me do pretty much whatever I want.  我的艺术老师性格非常好，总是允许我去做我想做的事情。
 【近】affable, genial, good-natured, good-tempered, gracious, mellow, nice, pleasant, sweet, well-disposed
