@@ -383,13 +383,13 @@ adjourn
 【例】  The meeting adjourned for a week. 会议延期一周。
 【近】  prorogate, prorogue, recess, suspend
 【反】  convoke 召集，召开会议
-adj unct [5AdVQNkt]
-adj unct
+adjunct [5AdVQNkt]
+adjunct
 【考法1】  n. 附属物，非必须部分：  something joined or added to another thing but not essentially a part of it
 【例】  Massage therapy can be used as an adjunct along with the medication. 按摩治疗可以作为药物治疗的补充疗法。
 【近】  appendage, appliance, attachment, add-on
 【反】  essential element 重要部分
-ad-lib [Ad 5lIb]
+ad-lib
 ad-lib
 【考法1】  adj. 即兴的：  made or done without previous thought or preparation
 【例】  not bad for an ad-lib comedy routine  对即兴喜剧表演来说已经不错了
@@ -1527,13 +1527,13 @@ bathetic
 【派】  bathos n. 平凡的事物
 bawdy
 【考法1】  adj. 下流的，猥亵的：  boisterously or humorously indecent
-【例】  a bawdy joke  黄色笑话  || bawdy house  妓院
+【例】  a bawdy joke  黄色笑话 || bawdy house  妓院
 【近】  obscene, lewd, ribald, vulgar
 【反】  decent, decorous 得体的
 chaste, noble  纯洁的，高贵的
 bedeck
 【考法1】  vt. 装饰，点缀：  to make more attractive by adding something that is beautiful or becoming
-【例】  flag bedecking the balcony  在阳台上用以装饰的旗子  || bedeck with jewels  用珠宝装饰
+【例】  flag bedecking the balcony  在阳台上用以装饰的旗子 || bedeck with jewels  用珠宝装饰
 【近】  adorn, beautify, decorate, dress, embellish, emblaze
 【反】  strip  剥去
 blemish, deface, mar, spoil 损害，破坏
@@ -1676,7 +1676,7 @@ blatant
 【近】  boisterous, clamant, clamorous, vociferous
 【反】  quiet, reticent, taciturn 沉默少语的
 【考法2】  adj. （让人生厌地）惹人注目的：  very noticeable especially for being incorrect or bad
-【例】  a blatant lie 明目张胆的谎言  || a blatant error in simple addition 简单的加法运算中的一个明显错误
+【例】  a blatant lie 明目张胆的谎言 || a blatant error in simple addition 简单的加法运算中的一个明显错误
 【近】  conspicuous, flagrant, glaring, patent, striking, pronounced
 【反】  subtle, unimpressive 细微的
 blazon
@@ -1703,7 +1703,7 @@ blight
 【近】  wither, shrivel
 【反】  flourish 生长繁茂
 【考法2】  v. 损害：  to impair the quality or effect of
-【例】  Illness blighted his career. 伤病毁了他的职业生涯   ||  Cosmetics  are  often  used  to  conceal  facialblemishes. 化妆品常用来遮盖脸部色斑。
+【例】  Illness blighted his career. 伤病毁了他的职业生涯 ||  Cosmetics  are  often  used  to  conceal  facialblemishes. 化妆品常用来遮盖脸部色斑。
 【近】  damage, deteriorate, harm, impair, mar, ruin
 【派】  blighted adj. 枯萎的，毁坏的
 bliss
@@ -1789,7 +1789,7 @@ boggle
 【近】  botch, bungle.
 boisterous
 【考法1】adj. 喧嚷的，吵闹的：  noisily turbulent
-【例】  a boisterous queue in front of the pavilion 场馆前喧闹的队伍  || boisterous mirth. 喧闹的欢笑
+【例】  a boisterous queue in front of the pavilion 场馆前喧闹的队伍 || boisterous mirth. 喧闹的欢笑
 【近】  rowdy, vociferous, blatant, clamorous, raucous, rambunctious
 【反】  quiet, sedate 安静的
 【派】  boisterousness n. 喧闹
@@ -1897,7 +1897,7 @@ brazen
 【近】  bold-faced, impertinent, impudent, insolent
 【反】  modest, self-effacing, diffident, retiring, timid 谦虚的，胆小的
 【考法2】  v. 大胆自信地去面对或从事：  to face or undergo with bold self-assurance
-【例】  brazened out the crisis  沉着面对危机  ||  Some  people  prefer  to  brazen  a  thing  out  rather  than  admitdefeat. 有的人不愿承认失败，而是宁肯厚着脸皮干下去。
+【例】  brazened out the crisis  沉着面对危机 ||  Some  people  prefer  to  brazen  a  thing  out  rather  than  admitdefeat. 有的人不愿承认失败，而是宁肯厚着脸皮干下去。
 【近】  confront, outface, defy
 【反】  dodge, duck, shirk, sidestep 躲开，避谈
 breach
@@ -2017,7 +2017,7 @@ bully
 【近】  awesome, fabulous, fantastic, superb, marvelous, unsurpassed, excellent
 bumptious
 【考法1】  adj. 专横傲慢的，自以为是的：  having a feeling of superiority  that shows itself in an overbearingattitude
-【例】  a bumptious young man whose family wealth gave him a sense of entitlement 一个傲慢的富二代   ||  bebumptious over one’s inferiors 对下级态度傲慢
+【例】  a bumptious young man whose family wealth gave him a sense of entitlement 一个傲慢的富二代 ||  bebumptious over one’s inferiors 对下级态度傲慢
 【近】 assumptive, haughty, imperious,  overweeing, peremptory, pompous, presuming, presumptuous,self-assertive, supercilious
 【反】  humble, modest, unarrogant, unpretentious 谦虚的，低调的
 bungle
@@ -2203,7 +2203,7 @@ caricature
 【近】  burlesque, imitate, mock, parody, spoof, travesty
 carnal
 【考法1】  adj. 肉体的，物质的：  relating to the physical
-【例】  seen with carnal eyes 用肉眼看  || carnal remains 遗体
+【例】  seen with carnal eyes 用肉眼看 || carnal remains 遗体
 【近】  corporal, corporeal, fleshly, material, somatic
 【反】  spiritual 精神的
 【考法2】  adj. 世俗的：  worldly
@@ -2226,7 +2226,7 @@ carve
 【例】  carved a statue out of rare marble 用纯的大理石雕刻了一尊雕像
 【近】  sculpture
 【考法2】  v. （通过长期不懈努力）产生或导致：  to produce or bring about especially by long or repeated effort
-【例】  finally carved out a niche for the sport in the school's athletic program 在学校运动计划中寻找到了自己的定位  || carve out a way through the enemy  从敌营中杀出一条血路
+【例】  finally carved out a niche for the sport in the school's athletic program 在学校运动计划中寻找到了自己的定位 || carve out a way through the enemy  从敌营中杀出一条血路
 【近】  forge, grind out, thrash out, work out, work up
 cast
 【考法1】  n. 演员，演员阵容：  a set of characters or persons
@@ -2286,7 +2286,7 @@ caveat
 【近】  warning, admonish
 cavil
 【考法1】  v. 挑剔，吹毛求疵：  to find fault unnecessarily; raise trivial objections :quibble
-【例】  Let us not cavil too much. 让我们别太挑剔。  || caviling about the price of a cup of coffee  对一杯咖啡的价钱挑刺
+【例】  Let us not cavil too much. 让我们别太挑剔。 || caviling about the price of a cup of coffee  对一杯咖啡的价钱挑刺
 【近】  carp, fuss, niggle, nitpick, quibble
 @@@@@Unit3@@@@@
 cavort
@@ -2402,7 +2402,7 @@ chide
 【反】praise, commend 称赞
 choleric
 【考法1】  adj. 易怒的，暴躁的：easily angered; bad-tempered.
-【例】choleric disposition  易怒的性情  || men of the choleric type take to kicking and smashing 易怒的人喜欢踢和打碎东西
+【例】choleric disposition  易怒的性情 || men of the choleric type take to kicking and smashing 易怒的人喜欢踢和打碎东西
 【近】crabby, cranky, irascible, peevish, petulant, bad-tempered, hot-tempered, short-tempered, testy
 【反】difficult to provoke, pacific, placid, calm, serene, tranquil, composed, nonchalant 难以被激怒的，平静的
 【派】choler n. 易怒：ready disposition to irritation : irascibility also : anger
@@ -2479,7 +2479,7 @@ circumscribe
 【近】cap, limit, confine, delimit, restrict
 【反】exceed  超过，超越
 【考法2】  vt. 包围，围绕：to surround by or as if by a boundary
-【例】fields circumscribed by tall trees  被高树包围的地方  || Circumscribe a circle around a square.  画正方形的外接圆。
+【例】fields circumscribed by tall trees  被高树包围的地方 || Circumscribe a circle around a square.  画正方形的外接圆。
 【近】surround, encompass
 circumspect
 【考法1】  adj. 谨慎的；小心的：careful to consider all circumstances and possible consequences: prudent
@@ -2488,7 +2488,7 @@ circumspect
 【反】careless, incautious, unmindful, unwary  不小心，不谨慎的；audacious, reckless  大胆的，鲁莽的
 circumvent
 【考法1】  vt. 躲避（不遵从）：to avoid having to comply with (something) especially through cleverness
-【例】circumvent all the red tape  绕过所有官方程序繁文缛节  || He found a way to circumvent the law.  他发现了一个逃避法律的方法。
+【例】circumvent all the red tape  绕过所有官方程序繁文缛节 || He found a way to circumvent the law.  他发现了一个逃避法律的方法。
 【近】avoid, bypass, dodge, sidestep, skirt, get around
 【反】comply with, follow, obey, observe  遵从；confront, direct encounter  直接面对
 civility
@@ -2498,7 +2498,7 @@ civility
 【反】discourteousness, discourtesy, impoliteness, incivility, rudeness, surliness, ungraciousness 无礼，粗鲁
 claim
 【考法1】  v. 要求 （权利）：to ask for especially as a right
-【例】a fragile claim to fame  对名誉不切实际的要求  || After many years had passed, he suddenly appeared toclaim his inheritance.  很多年已经过去，他突然出现要求继承遗产。
+【例】a fragile claim to fame  对名誉不切实际的要求 || After many years had passed, he suddenly appeared toclaim his inheritance.  很多年已经过去，他突然出现要求继承遗产。
 【近】call for, command, quest
 【反】renounce  放弃
 【考法2】  v. 断言：to state as a fact usually forcefully
@@ -2517,7 +2517,7 @@ clandestine
 【反】open, overt, public  公开的；  aboveboard 光明正大的
 clarion
 【考法1】  adj. 清楚响亮的：loud and clear
-【例】clarion call for democracy 对民主的高声呼吁  || The Internationale is a clarion call to the labouring peopleof the world.     《国际歌》是唤起全世界劳动人民的响亮号角。
+【例】clarion call for democracy 对民主的高声呼吁 || The Internationale is a clarion call to the labouring peopleof the world.     《国际歌》是唤起全世界劳动人民的响亮号角。
 【反】soft and indistinct 柔和模糊的
 clarity
 【考法1】  n.清晰、清楚：the quality or state of being clear: lucidity
@@ -2627,7 +2627,7 @@ coda
 【反】overture, prelude 前奏
 coerce
 【考法1】  vt. （以武力）强制：to achieve by force or threat
-【例】be coerced into agreeing  被强迫同意  || A confession was coerced from the suspect by police. 罪犯被警察逼供。
+【例】be coerced into agreeing  被强迫同意 || A confession was coerced from the suspect by police. 罪犯被警察逼供。
 【近】force, threaten, compel
 【派】coercion n. 强力压迫：the act of persuading someone forcefully to do something that they do not want todo
 【反】voluntary behavior 自愿的行为
@@ -2707,7 +2707,7 @@ comely
 unpretty 不好看的
 comity
 【考法1】  n. 友好，社会和谐：friendly social atmosphere  ：social harmony
-【例】group activities promoting comity  促进和谐氛围的团队活动  || comity of nations  国际礼节
+【例】group activities promoting comity  促进和谐氛围的团队活动 || comity of nations  国际礼节
 【近】compatibility, concord, peace
 【反】conflict, discord, dissension 冲突，不和
 commencement
@@ -2815,7 +2815,7 @@ compliment
 【例】How about a delicious dessert then, with our compliment? 给您上点甜点怎么样，算是我们小小的敬意。
 comply
 【考法1】  vi. 遵从：to  conform, submit, or adapt (as to a regulation or to another's wishes) as required orrequested
-【例】the  devices  comply  with  industry  standards  设备要遵循工业标准  ||  There  will  be  penalties  againstindividuals who fail to comply. 谁不遵从谁就会受到惩罚。
+【例】the  devices  comply  with  industry  standards  设备要遵循工业标准 ||  There  will  be  penalties  againstindividuals who fail to comply. 谁不遵从谁就会受到惩罚。
 【近】conform, submit, observe
 【反】defy, disobey, rebel against, violate, breach, transgress  违背
 compose
@@ -2837,7 +2837,7 @@ compound
 【近】admixture, alloy, amalgam, amalgamation, cocktail, combination, composite, fusion, intermixture, meld, mix,
 conflation, synthesis
 【考法2】  adj. 混合的：consisting of two or more substances, ingredients, elements, or parts
-【例】a compound word  复合词  || “Steamboat” is a compound noun. “汽船”是一个复合名词。
+【例】a compound word  复合词 || “Steamboat” is a compound noun. “汽船”是一个复合名词。
 【近】amalgamated
 【反】noncompound  非混合的
 【考法3】  vt. 混合：to put or bring together so as to form a new and longer whole
@@ -2852,7 +2852,7 @@ conflation, synthesis
 【例】compound a felony 私了案件
 compress
 【考法1】  vt. 压缩 （体积）：to reduce in size or volume as if by squeezing
-【例】compress a computer file  压缩电脑文档  || The science textbook compresses a lot of information abouthuman reproduction into a few short chapters. 科学教科书将人类的生殖知识压缩成了几个短章节。
+【例】compress a computer file  压缩电脑文档 || The science textbook compresses a lot of information abouthuman reproduction into a few short chapters. 科学教科书将人类的生殖知识压缩成了几个短章节。
 【近】capsule, collapse, compact, condense, constrict, constringe, contract, shrink, telescope
 【反】increase in volume, decompress, expand, outspread, outstretch 体积增大，扩张；balloon  膨胀
 compromise
@@ -2864,7 +2864,7 @@ compromise
 【近】hazard, imperil, jeopardy, jeopardize, menace, peril, venture
 compunction
 【考法1】  n. 焦虑：anxiety arising from awareness of guilt
-【例】compunction of conscience  良心不安  || a brutal murderer who killed without compunction  一个野蛮没有良心的杀人犯
+【例】compunction of conscience  良心不安 || a brutal murderer who killed without compunction  一个野蛮没有良心的杀人犯
 【近】anxiety, misgiving, scruple
 【反】absence of misgiving 不担忧
 concatenate
@@ -2925,7 +2925,7 @@ conciliate
 【反】contentious  好争吵的；belligerent 好战的
 concise
 【考法1】  adj. 简洁的：marked by brevity of expression or statement
-【例】a clear and concise account of the accident 一个清楚间断的事故描述  || Concise Design of SpacecraftAutomatic System 航天器自动控制系统简要设计
+【例】a clear and concise account of the accident 一个清楚间断的事故描述 || Concise Design of SpacecraftAutomatic System 航天器自动控制系统简要设计
 【近】aphoristic, compendious, curt, laconic, pithy, succinct, terse, elliptical
 【反】circuitous, circumlocutory, diffuse, long-winded, prolix, verbose, windy, wordy  冗长的
 concord
@@ -2951,7 +2951,7 @@ condescending
 【派】condescension n. 屈尊俯就：patronizing attitude or behavior
 condign
 【考法1】  adj. 应得的，恰当的：deserved, appropriate
-【例】condign  punishment  应得的惩罚  ||  A  suspension  without  pay  is  condign  punishment  for  breaking  thecompany's code of business ethics  停职是违反公司商业道德准则应得的惩罚。
+【例】condign  punishment  应得的惩罚 ||  A  suspension  without  pay  is  condign  punishment  for  breaking  thecompany's code of business ethics  停职是违反公司商业道德准则应得的惩罚。
 【近】due, deserved, merited, justified, warranted
 【反】undeserved, undue, unmerited 不应得的
 condole
@@ -4337,7 +4337,7 @@ devout
 【反】  disloyal, faithless, perfidious, unfaithful 不忠诚的；recreant, traitorous, treacherous 背叛的
 dexterous
 【考法1】  adj. 动作灵活的：  ready and skilled in physical movements
-【例】  a dexterous surgeon 技术娴熟的外科医生  || The dexterous watchmaker was able to repair the antiquewatch's delicate gears and parts. 手巧的手表匠能够修理古董手表的精密的齿轮和部件。
+【例】  a dexterous surgeon 技术娴熟的外科医生 || The dexterous watchmaker was able to repair the antiquewatch's delicate gears and parts. 手巧的手表匠能够修理古董手表的精密的齿轮和部件。
 【近】  deft, handy
 【反】  ham-fisted, ham-handed, handless, heavy-handed, unhandy 手笨的
 【考法2】  adj. 头脑灵活的：  mentally adroit and skillful: clever
@@ -4399,7 +4399,7 @@ diffuse
 【反】  concentrate, center, centralize, focus 集中
 digress
 【考法1】  v. 脱离主题：  to turn aside especially from the main subject of attention or course of argument
-【例】  digress from her prepared subject 脱离她准备好的主题  ||  He  digressed  so  often  that  it  was  hard  tofollow what he was saying. 他经常跑题，以至于我们很难跟上他说的内容。
+【例】  digress from her prepared subject 脱离她准备好的主题 ||  He  digressed  so  often  that  it  was  hard  tofollow what he was saying. 他经常跑题，以至于我们很难跟上他说的内容。
 【近】  excurse, ramble, diverge, get off the subject
 【派】  digressive adj.偏离的
 【近】  discursive
@@ -4421,7 +4421,7 @@ dilate
 【反】  abbreviate, abridge, condense, shorten 删减，缩短
 dilatory
 【考法1】  adj. 拖延的，磨蹭的：  tending or intended to cause delay, characterized by procrastination
-【例】  dilatory tactics 拖延战术  || The homeowner is claiming that local firefighters were dilatory in responding tothe call.  业主声称本地的消防队员对（火警）电话的有拖延。
+【例】  dilatory tactics 拖延战术 || The homeowner is claiming that local firefighters were dilatory in responding tothe call.  业主声称本地的消防队员对（火警）电话的有拖延。
 【近】  delaying, procrastinating, dragging, lagging, tardy
 【反】  rapid, fast, fleet, precipitate, rocketing, swift hasty, hurrying, scurrying 快速的
 @@@@@Unit4@@@@@
@@ -4437,7 +4437,7 @@ diligent
 【反】  idle, inactive, unbusy, unemployed, unoccupied 空闲的
 dilute
 【考法1】  v. 稀释：  to make thinner or less concentrated  by adding a liquid such as water/  of relatively  lowstrength or concentration
-【例】  dilute a color 稀释色彩  || a dilute acid that's safe to handle in the classroom  稀释了的可以安全在教室处理的酸
+【例】  dilute a color 稀释色彩 || a dilute acid that's safe to handle in the classroom  稀释了的可以安全在教室处理的酸
 【近】  thin
 【反】  condense, densify, concentrate, thicken 使浓缩
 【考法2】  vt. 削弱：  to diminish the strength, flavor, or brilliance of by admixture
@@ -4446,7 +4446,7 @@ dilute
 【反】  fortify, strengthen 增强
 diminish
 【考法1】  v. 变小，减少：  to become smaller or less
-【例】  diminish an army's strength  削弱军队力量  || The sound of the train diminished as our distance from itincreased.  当我们距离火车的越远时，火车的声音就越小。
+【例】  diminish an army's strength  削弱军队力量 || The sound of the train diminished as our distance from itincreased.  当我们距离火车的越远时，火车的声音就越小。
 【近】  abate, dwindle, lessen, lower, reduce, decline
 【反】  aggrandize, amplify, augment, boost, enlarge, escalate, expand, increase, raise, balloon 增加，增大
 【考法2】  v. 轻视，贬低：  to lessen the authority, dignity, or reputation of : belittle
@@ -4499,12 +4499,12 @@ dirge
 @@@@@Unit5@@@@@
 disabuse
 【考法1】  v. 打消错误念头，纠正：to free from error, fallacy, or misconception
-【例】  disabuse sb. of the notion that… 打消某人的…观点  ||  I must disabuse you of your feelings of grandeur.我必须去消除你的傲气。
+【例】  disabuse sb. of the notion that… 打消某人的…观点 ||  I must disabuse you of your feelings of grandeur.我必须去消除你的傲气。
 【近】  disenchant, undeceive
 【反】  lead into error  导致错误；mislead 误导
 disaffected
 【考法1】  adj. 不满的，叛逆的：  discontented and resentful especially against authority; rebellious
-【例】  gangs of disaffected teenagers 一群叛逆的年轻人   ||  The soldiers   were disaffected toward thegovernment.  那些士兵对政府不满.
+【例】  gangs of disaffected teenagers 一群叛逆的年轻人 ||  The soldiers   were disaffected toward thegovernment.  那些士兵对政府不满.
 【近】  discontented, dissatisfied, malcontent, rebellious, insubordinate, contumacious
 【反】  satisfied, contented 满足的
 【派】  disaffect v. 使不安，使不满：  to fill with discontent and unrest
@@ -4512,7 +4512,7 @@ disaffected
 【反】  mollify 平息，抚慰
 disarm
 【考法1】  vi. 解除武装：  to give up or reduce armed forces
-【例】  disarm the captured soldiers 解除被捕士兵的武装  ||  The  defeated  nation  was  disarmed  so  that  it
+【例】  disarm the captured soldiers 解除被捕士兵的武装 ||  The  defeated  nation  was  disarmed  so  that  it
 would never again be a threat to international order. 战败国被解除武装，这样一来它就不会再对国际秩序造成威胁了。
 【近】  demilitarize
 【反】  arm, militarize, put on guard 装备武器
@@ -4533,16 +4533,16 @@ disarray
 【反】  arrange, array, dispose, order, organize, range, regulate, straighten up 使有序
 disavow
 【考法1】  vt. 拒绝承认，否认：  to disclaim knowledge of, responsibility for, or association with；to declare notto be true
-【例】  disavow the rumor  否认谣言  || She disavowed the testimony that she had given earlier in the trial.  她在审判中否认了自己之前的证词。
+【例】  disavow the rumor  否认谣言 || She disavowed the testimony that she had given earlier in the trial.  她在审判中否认了自己之前的证词。
 【近】  deny, repudiate, disaffirm, disclaim, disconfirm, gainsay, negate
 【反】  acknowledge, avow, concede 承认
 discern
 【考法1】  vt. 识别，辨别差异：to perceive with the eyes or intellect; detect
-【例】  discern the motives 辨识出动机  || too young to discern between right and wrong 太年轻了而辨别不了是非
+【例】  discern the motives 辨识出动机 || too young to discern between right and wrong 太年轻了而辨别不了是非
 【近】  behold, descry, distinguish, espy, perceive, regard, differentiate, discriminate
 【反】  confuse, mix up 混淆
 【派】  discerning adj. 有洞察力的，洞悉的：showing insight and understanding
-【例】  a very discerning art critic  眼光敏锐有洞察力的艺术评论家  || She has a discerning palate. 她的味觉很敏锐。
+【例】  a very discerning art critic  眼光敏锐有洞察力的艺术评论家 || She has a discerning palate. 她的味觉很敏锐。
 【近】  insightful, incisive
 【反】  myopic, shortsighted 目光短浅的；undiscerning  无辨别能力的
 【派】  discernible/ discernable adj. 可辨识的，可辨别的：perceptible
@@ -4655,7 +4655,7 @@ discriminate
 @@@@@Unit7@@@@@
 discursive
 【考法1】  adj. （谈话内容）杂乱的：  moving from topic to topic without order
-【例】  a long, discursive article 冗长杂乱的文章   ||  The  speaker's  discursive  style  made  it  difficult  tounderstand his point.  演讲者讲话杂乱，很难让人理解他的观点。
+【例】  a long, discursive article 冗长杂乱的文章 ||  The  speaker's  discursive  style  made  it  difficult  tounderstand his point.  演讲者讲话杂乱，很难让人理解他的观点。
 【近】  desultory, digressional, excursive, meandering, rambling, wandering
 【反】  keen on title, concentrated 关注主题的，集中的
 disdain
@@ -4747,7 +4747,7 @@ dismay
 【反】  calm, compose, quiet, soothe, tranquilize  平息抚慰
 disparage
 【考法1】  vt. 贬低，轻蔑地说：  to lower in rank or reputation; to speak of in a slighting or disrespectful way;belittle
-【例】  use the past to disparage the present 借古讽今  || Voters don't like political advertisements in whichopponents disparage one another.选民不喜欢看到贬低竞争对手的政治广告。
+【例】  use the past to disparage the present 借古讽今 || Voters don't like political advertisements in whichopponents disparage one another.选民不喜欢看到贬低竞争对手的政治广告。
 【近】  belittle, denigrate, deprecate, depreciate, derogate, degrade
 【反】  acclaim, applaud, exalt, extol, glorify, laud 赞扬
 disparate
@@ -4770,7 +4770,7 @@ dispatch
 【近】  transfer, transmit, transport, pack off
 【反】  accept, receive 接收
 【考法3】  v. 使死亡：  to deprive of life
-【例】  dispatch a criminal 处决罪犯  || The man dispatched the termites with professional efficiency. 那个男人技术纯熟地杀死了白蚁。
+【例】  dispatch a criminal 处决罪犯 || The man dispatched the termites with professional efficiency. 那个男人技术纯熟地杀死了白蚁。
 【反】  animate 使有生命
 【考法4】  v. 获胜：  to achieve a victory over
 【例】  They dispatched the other team with breaking a sweat.  他们险胜其他的队。
@@ -4802,19 +4802,19 @@ disregard
 @@@@@Unit9@@@@@
 dissect
 【考法1】  vt. 仔细分析：  to examine, analyze, or criticize in minute detail
-【例】  dissect some basic problems in mathematics analysis 仔细分析一些数学分析的基本问题  ||  let's  dissectthe plot of this thriller to see what makes it thrilling. 让我们来仔细分析一下这个恐怖电影为什么恐怖。
+【例】  dissect some basic problems in mathematics analysis 仔细分析一些数学分析的基本问题 ||  let's  dissectthe plot of this thriller to see what makes it thrilling. 让我们来仔细分析一下这个恐怖电影为什么恐怖。
 【近】  analyze
 【考法2】  vt. 切成片(尤其是为了解剖研究)：  to cut apart or separate (tissue), especially for anatomical study
 【例】  dissect the brain of Einstein 解剖爱因斯坦的大脑
 【近】  anatomize, assay, break down
 dissemble
 【考法1】  v. 用假象隐藏真相，掩饰：  to put on a false appearance
-【例】  dissemble fear with a smile  用微笑来掩饰恐惧   ||  He  dissembled  happiness  at  the  news  that  hisex-girlfriend was getting married to someone else. 他对其他人假装高兴听到前女友结婚的消息。
+【例】  dissemble fear with a smile  用微笑来掩饰恐惧 ||  He  dissembled  happiness  at  the  news  that  hisex-girlfriend was getting married to someone else. 他对其他人假装高兴听到前女友结婚的消息。
 【近】  dissimulate, affect, assume, bluff, counterfeit, fake, sham
 【反】  behave honestly 表现诚恳
 disseminate
 【考法1】  vt. 散播，传播：  to spread abroad; promulgate
-【例】  disseminate Marxism-Leninism 传播马列主义  || The Internet allows us to disseminate information faster.互联网允许我们更快的传播信息。
+【例】  disseminate Marxism-Leninism 传播马列主义 || The Internet allows us to disseminate information faster.互联网允许我们更快的传播信息。
 【近】  broadcast, circulate, propagate
 【反】  gather, amass, garner 收集
 dissension
@@ -4869,12 +4869,12 @@ dissolve
 【近】  terminate, abrogate, annul, cancel, disannul, invalidate, negate, null, nullify, repeal, rescind
 dissonance
 【考法1】  n．不和谐，刺耳：  a harsh, disagreeable combination of sounds; discord
-【例】  cognitive dissonance 认识上的分歧  || Dissonance among the three partners doomed the project. 三个股东间的不调和注定了那计划的失败。
+【例】  cognitive dissonance 认识上的分歧 || Dissonance among the three partners doomed the project. 三个股东间的不调和注定了那计划的失败。
 【近】  conflict,  disaccord,  discordance,  discordancy,  disharmony,  dissent,  dissidence,  dissonance,  disunion,disunity, division, friction, inharmony, schism, strife
 【反】  accord, agreement, concord, concordance, harmony, consensus, unanimity 不和谐，不一致
 dissuade
 【考法1】  vt. 劝阻,反对：  to deter (a person) from a course of action or a purpose by persuasion or exhortation
-【例】  dissuade sb. from (doing) sth 劝阻/反对某人做某事  ||  Her  parents  tried  to  dissuade  her  from  herintention to drop out of college. 她的父母劝她不要退学。
+【例】  dissuade sb. from (doing) sth 劝阻/反对某人做某事 ||  Her  parents  tried  to  dissuade  her  from  herintention to drop out of college. 她的父母劝她不要退学。
 【近】  deter, dissuade, inhibit
 【反】  encourage 鼓励；persuade 说服
 @@@@@Unit10@@@@@
@@ -4967,7 +4967,7 @@ divert
 【例】  A light comedy divert the tired business executive 一个轻松的喜剧让疲惫的企业主管人员得到了放松。
 【近】  disport, entertain, regale, solace
 【考法3】v. 使分心：to draw the attention or mind to something else
-【例】  divert one’s attention 转移某人注意力  || The parents tried to divert the child with a toy while the doctorwas giving her a shot.  当医生要给那个孩子打针的时候，孩子父母试图用玩具转移孩子的注意力。
+【例】  divert one’s attention 转移某人注意力 || The parents tried to divert the child with a toy while the doctorwas giving her a shot.  当医生要给那个孩子打针的时候，孩子父母试图用玩具转移孩子的注意力。
 【例】
 【近】  abstract, detract, call off
 divestiture
@@ -4977,7 +4977,7 @@ divestiture
 【反】  acquisition  获得；endowment  捐赠
 divulge
 【考法1】  vt. 泄漏（秘密）：to make known (as a confidence or secret)
-【例】  refuse to divulge details of the negotiations 拒绝透露谈判的细节内容  || We tried to make him divulgethe name of the winner, but he wouldn't budge. 我们试图让他透露胜利者的名字，但是他没有那样做。
+【例】  refuse to divulge details of the negotiations 拒绝透露谈判的细节内容 || We tried to make him divulgethe name of the winner, but he wouldn't budge. 我们试图让他透露胜利者的名字，但是他没有那样做。
 【近】  bare, disclose, discover, expose, uncover, unmask, unveil
 【反】  conceal, cover up, hide, mask, shroud, veil 保密，隐藏
 dodder
@@ -4986,7 +4986,7 @@ dodder
 【近】  careen, lurch, teeter, totter, waddle
 dodge
 【考法1】  v. 躲避：  to avoid (a blow, for example) by moving or shifting quickly aside
-【例】  dodge a storm of bullets 躲避枪林弹雨  || He dodged the first punch but was hit by the second. 他躲过了第一次打击但是没有躲过第二次。
+【例】  dodge a storm of bullets 躲避枪林弹雨 || He dodged the first punch but was hit by the second. 他躲过了第一次打击但是没有躲过第二次。
 【近】  avoid, escape, shirk, malinger, goldbrick, evade, parry, sidestep, circumvent, fence, hedge, avert, elude, shun, skirt, bilk, eschew, weasel
 doff
 【考法1】  vt. 脱下：  to take off; remove
@@ -4995,7 +4995,7 @@ doff
 【反】  don, put on 穿上
 dogged
 【考法1】  adj. 坚持的，坚决的：  continuing despite difficulties, opposition, or discouragement；showing no signsof slackening or yielding in one's purpose
-【例】  gain respect through sheer dogged determination 凭借单纯的坚决赢得了尊重  ||  A  madman  who  spenthis life in dogged pursuit of power 一个一生都坚持追求权力的疯子
+【例】  gain respect through sheer dogged determination 凭借单纯的坚决赢得了尊重 ||  A  madman  who  spenthis life in dogged pursuit of power 一个一生都坚持追求权力的疯子
 【近】  insistent, persevering, pertinacious, tenacious, determined
 【反】  easily discouraged 容易气馁的；yielded 屈服的
 【考法 2】  adj. 固执的，任性的：  sticking  to  an  opinion,  purpose,  or  course  of  action  in  spite  of  reason,arguments, or persuasion
@@ -5737,7 +5737,7 @@ epitomize
 【例】  his personal code of behavior on the playing field is epitomized by his favorite saying, Nice guys finish last.他在赛场上的座右铭是：好男坚持到底。
 【近】  abstract, digest, encapsulate, outline, recapitulate, synopsize, sum up
 【考法2】  v. 代表，体现，是…的典型范例：  to represent in visible form, to be a typical example of
-【例】  the Parthenon in Athens epitomizes the ancient Greek ideal of architectural beauty 雅典的巴特农神庙体现了古希腊对于建筑美感的理念  || behavior that epitomizes selfishness 典型的自私行为
+【例】  the Parthenon in Athens epitomizes the ancient Greek ideal of architectural beauty 雅典的巴特农神庙体现了古希腊对于建筑美感的理念 || behavior that epitomizes selfishness 典型的自私行为
 【近】  body, express, externalize, incarnate, incorporate, instantiate, manifest, materialize, substantiate
 equable
 【考法1】  adj. （脾气、性情）温和的：  not easily disturbed; serene
@@ -5767,7 +5767,7 @@ equivocate
 【反】  clarity 清楚
 erode
 【考法1】  v. 侵蚀，慢慢减少：  to consume or wear away gradually
-【例】  flooding eroded the hillside  洪水冲刷着山岭  || inflation eroding buying power  通货膨胀导致购买力下降
+【例】  flooding eroded the hillside  洪水冲刷着山岭 || inflation eroding buying power  通货膨胀导致购买力下降
 【近】  corrode, fret, gnaw, nibble, bite at
 errant
 【考法1】  adj. 居无定所的：  traveling from place to place
@@ -6110,7 +6110,7 @@ exquisite
 【近】  dainty, delicate, elegant, recherché, select
 extant
 【考法1】  adj. 现存的：  still in existence; not destroyed, lost, or extinct
-【例】  the most charming writer extant 目前活着的作家中最有魅力的一位  || extant manuscripts  未毁坏的手稿
+【例】  the most charming writer extant 目前活着的作家中最有魅力的一位 || extant manuscripts  未毁坏的手稿
 【近】  current, immediate, ongoing, present-day, existent
 【反】  destroyed, extinct ,lost, missing, dead, extinct, nonextant 丢失的，不存在的
 extemporize
@@ -6266,7 +6266,7 @@ fallow
 【例】  The coal mine has been lying fallow since the drop in prices made it unprofitable. 自从煤价下跌造成亏损，这个煤矿就一直处于停工状态
 【近】  dead, dormant, inert, inoperative, latent, unused, vacant
 【反】  functioning, occupied, operative, running, working 使用中的；active 活跃的
-fail-safe [?????????]
+fail-safe
 【考法1】  n. 保险措施：  a measure taken to preclude loss or injury
 【例】  There are so many fail-safes built into the system that a highly unlikely series of mistakes would have to be
 made before failure could occur. 系统中嵌入了大量的保险措施，因此在系统崩溃之前，必须要发生一系列几乎不可能出现的错误
@@ -6980,7 +6980,7 @@ accomplish, fulfill 实现
 【近】  chill, daunt, dishearten, dismay, dispirit
 【反】  embolden, encourage, nerve, steel 鼓舞
 【派】  frustration n. 沮丧；阻挠；frustrated adj. 沮丧的
-full-bodied [??????????]
+full-bodied
 【考法1】  adj. 重要的：  having importance, significance, or meaningfulness
 【例】  a full-bodied study of genetic engineering 一项基因工程的重要研究
 【近】  important, consequential, momentous, significant, weighty
@@ -7463,7 +7463,7 @@ grisly
 【近】  appalling, dreadful, ghastly, gruesome, hideous, horrifying, macabre
 groove
 【考法1】  v. 享受，极其满意，过得快活：  to take pleasure in
-【例】  thrill-seekers who groove on skiing will love snowboarding 那些乐在滑雪中的追求刺激的人们也会喜欢滑雪板的  || just sitting around, grooving on the music 随便坐坐，在音乐中享受一下
+【例】  thrill-seekers who groove on skiing will love snowboarding 那些乐在滑雪中的追求刺激的人们也会喜欢滑雪板的 || just sitting around, grooving on the music 随便坐坐，在音乐中享受一下
 【近】  adore, fancy, savor, relish, get off on, rejoice in, revel in, delight in
 grotesque
 【考法1】  adj. 难看的：  unpleasant to look at
@@ -7552,7 +7552,7 @@ hale
 【例】  the fishermen haled the huge net onto the deck of the ship 渔民们将巨大的渔网拖到渔船甲板上
 【近】  drag, draw, haul, lug, tow, tug
 【反】  drive, propel, push 推
-half-baked [??????????]
+half-baked
 【考法1】  adj. 不明智的：  showing or marked by a lack of good sense or judgment
 【例】  a half-baked scheme 不明智的计划
 【近】  daffy, daft, dippy, harebrained, half-witted, preposterous
@@ -7572,14 +7572,14 @@ hallucination
 【例】  the common hallucination that gluttony during the holiday season doesn't have consequences
 【近】  chimera, daydream, delusion, fancy, figment, illusion
 【反】  truth, verity
-ham-handed [??????????]
+ham-handed
 【考法1】  adj. 笨手笨脚的：  lacking dexterity or grace
 【例】  too ham-handed to use one of those tiny cell phones 手指太不灵活了，用不了那种迷你型手机
 【近】  awkward, handless, heavy-handed, maladroit, unhandy
 【反】 deft, dexterous, handy, sure-handed, adroit 敏捷的
 hammer
 【考法1】  v. 屡次重申：  to make repeated efforts especially :to reiterate an opinion or attitude.
-【例】  the lectures all hammered away at the same points 整场讲座都是在阐述相同论点  ||  hammered  the
+【例】  the lectures all hammered away at the same points 整场讲座都是在阐述相同论点 ||  hammered  the
 information into the students' heads 把这条信息反复向学生们强调
 hamper
 【考法1】  vt. 阻碍：  to restrict the movement of by bonds or obstacles: impede
@@ -7629,7 +7629,7 @@ harbor
 【考法2】  v. 认为，牢记：  to keep in one's mind or heart
 【例】  he had long harbored a grudge against his old employer, who had fired him without cause 他对他的前老板一直耿耿于怀，无缘无故炒了他
 【近】  bear, cherish, entertain, hold, nurse
-hard-bitten [??????????]
+hard-bitten
 【考法1】  adj. 顽强的，经受的住困境、压力的：  able to withstand hardship, strain, or exposure
 【例】  hard-bitten Chinese people could endure both the scorching heat and the freezing cold 坚强勇敢的中国人民既能受得住酷暑，又能受得住严寒
 【近】  hardened, sturdy, tough, cast-iron, inured, rugged, stout, vigorous, hardy
@@ -7836,7 +7836,7 @@ hoax
 【近】 bamboozle, beguile, bluff, con, cozen, delude, dupe, fake out, gull, hoodwink, take in
 hodgepodge
 【考法1】  n. 大杂烩：  a mixture of dissimilar ingredients; a jumble
-【例】  a hodgepodge of styles 混搭风格  || the exhibit was a hodgepodge of mediocre art, bad art, and really badart 整场展览就是中庸、烂和非常烂的艺术作品的大杂烩
+【例】  a hodgepodge of styles 混搭风格 || the exhibit was a hodgepodge of mediocre art, bad art, and really badart 整场展览就是中庸、烂和非常烂的艺术作品的大杂烩
 【近】 agglomeration, assortment, collage, medley, mishmash, pastiche, potpourri
 homage
 【考法1】  n. 尊敬，敬意：  expression of high regard: respect
@@ -7859,7 +7859,7 @@ homogenize
 【近】 formalize, homogenize, normalize, regularize
 hone
 【考法1】  v. 磨快：  to sharpen or smooth with a whetstone
-【例】 honed the knife's blade to razor-like sharpness 把小刀磨得像剃刀一样锋利                                     ||  honed hiscrossword-puzzle skills by reading the dictionary  通过背字典把填词游戏的水平练得炉火纯青
+【例】 honed the knife's blade to razor-like sharpness 把小刀磨得像剃刀一样锋利 ||  honed hiscrossword-puzzle skills by reading the dictionary  通过背字典把填词游戏的水平练得炉火纯青
 【近】  edge, grind, strop, whet
 【反】 blunt, dull 弄钝
 hoodwink
@@ -10621,7 +10621,7 @@ mosque
 【考法1】  n. 清真寺：  a building used for public worship by Muslim
 【例】  a deadly suicide attack at the mosque 在清真寺发生的致命自杀性袭击
 【近】  cathedral, chapel, church, temple
-moth-eaten [??????????]
+moth-eaten
 【考法1】adj. 过时的：having passed its time of use or usefulness
 【例】dressed in a moth-eaten style 过时的衣着
 【近】  antiquated, archaic, dated, fossilized, moribund, outdated, outworn, rusty
@@ -11119,7 +11119,7 @@ obstinate
 【近】 adamant, headstrong, intransigent, stubborn, uncompromising, unyielding, willful
 【反】  acquiescent, agreeable, amenable, compliant, complying, flexible, pliable, pliant, relenting, yielding 顺从服从的
 【考法2】  adj. 难于减轻或治愈的：  not easily subdued, remedied, or removed
-【例】 obstinate fever  高烧不退  || an obstinate headache 难以治愈的头痛
+【例】 obstinate fever  高烧不退 || an obstinate headache 难以治愈的头痛
 obstreperous
 【考法1】  adj. 难驾驭的，任性的：  stubbornly resistant to control; unruly; given to resisting authority or another'scontrol
 【例】  the club's president was at his wits' end with obstreperous members who refused to cooperate 俱乐部主席拿那些不合作的会员一点办法都没有
@@ -11154,7 +11154,7 @@ occult
 【近】  ambiguous, arcane, equivocal, inscrutable, opaque, impenetrable
 【反】 bare, manifest, patent, readily fathomable 暴露的，可理解的
 【考法2】  v. 使隐藏或神秘：  to keep secret or shut off from view
-【例】  occulted their house from prying eyes by planting large trees around it 在住所周围种满大树防止别人偷窥  || the actor's private life had long been occulted by a contrived public persona 演员的私人生活被一个精心打造的公众形象所遮掩
+【例】  occulted their house from prying eyes by planting large trees around it 在住所周围种满大树防止别人偷窥 || the actor's private life had long been occulted by a contrived public persona 演员的私人生活被一个精心打造的公众形象所遮掩
 【近】  belie, blanket, cloak, conceal, cover, curtain, disguise, enshroud, mask, obscure, screen, shroud, suppress,veil, blot out, paper over
 【反】  bare, disclose, display, divulge, expose, reveal, show, uncloak, uncover, unmask, unveil 暴露
 odium
@@ -14720,7 +14720,7 @@ segment
 【考法1】  vt./n. 分割，部分：  to separate into segments
 【例】 I think I lost one segment of this model kit. 这套模型的一个零件我找不到了。
 【近】 member, partition, portion, section
-self-abasement [?????????????????]
+self-abasement
 【考法1】  n. 自卑，自谦：  degradation or humiliation of oneself
 【反】 self-asserting 自信
 self-absorbed
@@ -16227,7 +16227,7 @@ supine
 【反】 vigilant 警惕的
 supple
 【考法1】  adj. 易弯曲的，柔软的：  readily bent; pliant
-【例】  supple limbs 柔软的四肢  || a supple mind 灵活的头脑
+【例】  supple limbs 柔软的四肢 || a supple mind 灵活的头脑
 【近】 bendy, flexible, limber, lissome, lithe, pliable, pliant, lithesome
 【反】 inflexible, stiff, rigid 坚硬
 【派】 suppleness n.柔软
@@ -16558,7 +16558,7 @@ tempestuous
 【反】 serene 平静的
 tenable
 【考法1】  adj. 有据可依的，无懈可击的：  capable of being held or defended; reasonable
-【例】  a tenable theory 一个站得住脚的理论  || a tenable outpost 一个守得住的前哨
+【例】  a tenable theory 一个站得住脚的理论 || a tenable outpost 一个守得住的前哨
 【近】 defendable, justifiable, maintainable, supportable, sustainable
 【反】 unjustified, unsound, specious, indefensible, fallacious 不合理的
 @@@@@Unit8@@@@@
@@ -16592,12 +16592,12 @@ tenuous
 【反】 substantial 实质的
 tepid
 【考法1】  adj. 不太热心的：  showing little or no interest or enthusiasm
-【例】  a tepid response 冷漠的回应  || the tepid conservatism of the fifties 五十年代那种温和的保守主义
+【例】  a tepid response 冷漠的回应 || the tepid conservatism of the fifties 五十年代那种温和的保守主义
 【近】  lukewarm, halfhearted, uneager, unenthusiastic
 【反】 ardent, ebullient, feverish, keen, passionate, wholehearted 热心的
 terminology
 【考法1】  n. 专业术语：  the special terms or expressions of a particular group or field
-【例】  the terminology favored by sportscasters  体育节目转播员喜欢用的那些术语  ||  medical  terminology  thatcan be hard for the patient to understand 那些病人们难以理解的医学术语
+【例】  the terminology favored by sportscasters  体育节目转播员喜欢用的那些术语 ||  medical  terminology  thatcan be hard for the patient to understand 那些病人们难以理解的医学术语
 【近】  argot, cant, dialect, jargon, jive, lingo, patois, patter, slang
 terminus
 【考法1】  n. 终点，终点站：  the final point; the end
@@ -16730,7 +16730,7 @@ tonic
 【反】  insalubrious, noxious, unhealthful, unhealthy, unwholesome 不健康的
 &&&&&List26
 @@@@@Unit1@@@@@
-topsy-turvy [???????????]
+topsy-turvy
 【考法1】  adj. 混乱的：  lacking in order, neatness, and often cleanliness
 【例】  He left his room topsy-turvy. 他把他的房间弄的很乱。
 【近】  disordered, chaotic, messy, anarchic, jumbled
@@ -16833,7 +16833,7 @@ transparent
 unclarified, unclear, unclouded  难以理解的
 travail
 【考法1】  n./v. 辛苦劳动：  work, especially when arduous or involving painful effort
-【例】  writer’s literary travail 作家辛勤的文学创作    || Labor Day is the day on which we recognize those men
+【例】  writer’s literary travail 作家辛勤的文学创作 || Labor Day is the day on which we recognize those men
 and women who daily travail with little appreciation or compensation. 劳动节是我们向那些平日辛勤劳作但是很少受到大家关注和补偿的工人致敬的日子。
 【近】  drudgery, fatigue, grind
 traverse
@@ -18318,7 +18318,7 @@ rhetorical
 future but laid out no specific programs for ensuring it. 新的执政官发表了词藻华丽的演说，畅谈国家的美好未来，但却没有提出实现这一目标的具体措施。
 【近】  bombastic, flatulent, florid, fustian, gaseous, gassy, grandiloquent, oratorical, orotund, purple, windy
 【反】  prosaic 平凡无奇的；plain, simple  简单的
-thick-skinned [??????????]
+thick-skinned
 【考法1】  adj. 冷漠无情的，不顾及他人感受的：  largely unaffected by the needs and feelings of other people
 【例】  She was so thick-skinned that she was clueless about the fact that the joke had hurt her friend's feelings.她很少顾及他人的感受，以至于她根本没有意识到那个玩笑伤害了她朋友的感情。
 【近】  affectless, callous, cold-blooded, heartless, indurate, inhumane, insensitive, merciless, obdurate, ruthless
@@ -18655,7 +18655,7 @@ scrimp?
 【反】  dissipate, lavish, squander, waste 浪费
 &&&&&List29*
 @@@@@Unit1@@@@@
-willy-nilly [???????????]?
+willy-nilly?
 【考法1】  adv. 不论是否愿意的（地）：  whether desired or not
 【例】  After her boss fell sick, she willy-nilly found herself directing the project. 在她老板生病后，她发现自己不论愿不愿意，都得指导这项工程。
 【近】  helplessly, inescapably, inevitably, perforce, unavoidably
@@ -18947,7 +18947,7 @@ shifty?
 【例】  shifty practices such as turning back the odometers on used cars 一些欺骗性的花招，比如把旧车的里程表调零 ‖He had a shifty face so I won’t trust him. 他看起来贼目鼠眼的，我不会相信他。
 【近】  crooked, deceitful, deceptive, duplicitous, fraudulent, guileful, rogue, shady, sharp, underhanded
 【近】  aboveboard, honest, straight 正派的，光明正大的
-topsy-turvy [????????????]?
+topsy-turvy?
 【考法1】  adj. 混乱的，不整洁的：  lacking in order, neatness, and often cleanliness; totally disordered
 【例】  The office is still topsy-turvy even though we moved in months ago. 尽管我们上个月就搬了进来，办公室还是混乱不堪。‖turning our ordered life topsy-turvy 把原本有序的生活彻底打乱
 【近】  chaotic,  confused,  disarranged,  disarrayed,  disheveled,  disorderly,  jumbled,  messed,  rumpled,  sloppy,unkempt, untidy
@@ -18972,7 +18972,7 @@ beige?
 【近】  characterless, faceless, featureless, indistinctive, neutral, noncommital, vanilla
 【反】  diagnostic, discriminating, distinct, distinctive, distinguishing, identifying, peculiar, typical 特征的
 @@@@@Unit6@@@@@
-ill-bred [????????]?
+ill-bred?
 【考法1】  adj. 没有教养的，没有礼貌的：  badly brought up or showing bad upbringing: impolite
 【例】  Only an ill-bred, conceited person would demand that everyone cater to their whims. 只有一个没有教养、狂妄自大的人才会要求所有人都去迎合他的想法。
 【近】  discourteous, disrespectful, impertinent, impolite, inconsiderate, rude, uncivil, ungracious, unmannerly
